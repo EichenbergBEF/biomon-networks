@@ -1,0 +1,246 @@
+modul_id;modulname;Unterprogramm;Programm;Progrshort;Status
+8e1cfb5a-06a8-453c-a839-e3b97fb6ddd6;Schleswig-Holstein - Bodenfauna;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+77c32581-cd66-40d1-9c53-e46db66441d4;Thüringen - Regenwürmer;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;beendet
+11fdf7df-b27c-499c-98bc-862cfae44470;Sachsen-Anhalt - Vegetation;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+00139181-5fe0-4fd2-9a62-40d9228a90cf;Brandenburg - Mikrobiologie;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+c4cbf1ef-f377-456a-a753-1b274da8acef;Nordrhein-Westfalen - Bodenfauna;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;beendet
+c0e0c56a-a194-4867-b2c8-3857e3e22d6f;Schleswig-Holstein - Bodenmikrobiologie;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+8b0c08ef-c5a1-4e34-a04e-576942562a44;Niedersachsen - Mikrobiologie;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;beendet
+7852aeaf-3996-497b-a2db-ac185d941b44;Niedersachsen - Vegetation;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+95f2087f-5e8b-4ae6-b8b0-063a7170ec41;Brandenburg - Regenwürmer;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+19e44e1b-a3f9-413a-9538-312df8acf93b;Bayern - Regenwürmer LfL;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+13e462ea-29cf-4dd8-baee-0460dcdaa67e;Nordrhein-Westfalen - Bodenmikrobiologie;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;beendet
+b070fed8-9742-4eb9-85fc-31dd1927229a;Sachsen-Anhalt - Bodenmikrobiologie;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+ad9b905e-4f96-4991-a878-65b0150effc2;Thüringen - Pflanzenertrag TLL;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;beendet
+aa699033-8e24-4f74-82a1-472870fbaa3c;Thüringen - Bodenbiologie TLL;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;beendet
+88d290a1-7466-4e93-84bb-8de057cde221;Bayern - Vegetation;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+feebbc28-2342-47e4-a366-354de2f98fb5;Sachsen-Anhalt - Regenwürmer;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+06b7796b-d1b6-4b93-bbc9-cd445d21540e;Niedersachsen - Bodenfauna;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+5b5938c5-2e24-4318-98f1-5708e8d99304;Schleswig-Holstein - Vegetation;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+e9895c93-aa62-4281-a662-56ae909ee793;Bayern - Regenwürmer LfU;Bodendauerbeobachtung;Bodendauerbeobachtung;BDF;laufend
+a7986c63-7312-400c-b53e-4853bb0aae03;Bodenzustandserhebung;Bodenzustandserhebung - Wald;Forstliches Umweltmonitoring in Deutschland;ForUmMon;laufend
+ed2e3359-d7d1-4533-b4ee-8f24b806495f;Bundeswaldinventur;Bundeswaldinventur;Bundeswaldinventur;BWI;laufend
+4d04f5cb-c107-44bf-97fe-d202dfac153f;Inventurstudie und Kohlenstoffinventur;Bundeswaldinventur;Bundeswaldinventur;BWI;laufend
+9d920114-a2aa-4088-ac32-2cd005aaab58;Monitoring häufiger Insekten - 1A: Tagfalter & Widderchen auf der Landschaftsebene;Bundesweites Insektenmonitoring;Bundesweites Insektenmonitoring;InsektMon;in Erprobung
+c658a937-4742-4cb9-8525-960e735f370c;Monitoring häufiger Insekten - 1C: Laufkäfer & bodenlebende Spinnen in Grünland, Acker und Wald;Bundesweites Insektenmonitoring;Bundesweites Insektenmonitoring;InsektMon;in Entwicklung
+dcb186a6-c41f-47eb-aca8-0c655f3a1fb6;Monitoring häufiger Insekten - 1B Heuschrecken im Grünland;Bundesweites Insektenmonitoring;Bundesweites Insektenmonitoring;InsektMon;in Erprobung
+30cfdaf7-337f-4ed4-a76b-95356d7ba3ec;Wildbienen-Monitoring in Agrarlandschaften - Standardisierte, nicht-repräsentative Erfassung (Zufallsmeldung);Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+a9bd5fa7-ca71-43f1-83fb-ed6e9545f35a;Monitoring Insekten - Honigbienen-Langzeittrendmonitoring;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+79ec11c2-ee6e-4910-abb8-4d83c128381e;Wildbienen-Monitoring in Agrarlandschaften - Standardisierte, nicht-repräsentative Erfassung (Ehrenamtl Flächen);Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Erprobung
+ce89d9e6-d3f7-4052-8507-a2d8828eb97f;Monitoring Boden & Organismengruppen - Schaderreger;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+a9c9352c-2958-482f-801e-1f985d127691;Citizen Science Monitoring Insekten - Honigbienen-Langzeittrendmonitoring mit Imkern;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+620b1688-fa7f-446e-97ed-8c41754d7514;Monitoring Boden & Organismengruppen - Ackerunkräuter;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+bb97d5f9-aec8-44fd-a298-86dcfc544fb0;Monitoring Boden & Organismengruppen - Regenwurm-Monitoring;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+e66fb6f7-91c8-49a2-a732-96f4e5ee47e6;Monitoring Insekten - Genetische Varianz von Honigbienen;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+5467b5c3-bd86-4f3b-93cc-825d4710a6f4;Monitoring der Lebensraumvielfalt in Agrarlandschaften - Landnutzungs-Monitoring basierend auf Agrarstatistik;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+526ad6e7-6759-4805-ac49-be55987bcba0;Biodiversität der Kleingewässer;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+70b34181-7572-4049-a9ad-16c2381850c0;Monitoring der Lebensraumvielfalt in Agrarlandschaften - Kleinstrukturen und Landschaftselemente;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+e1078e88-8727-4d1b-b67e-2c068c6da757;Monitoring Boden & Organismengruppen - Bodenmikroorganismen;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+4c209ab4-fd6d-4f19-9182-6ac3925facef;Wildbienen-Monitoring in Agrarlandschaften - Standardisierte, repräsentative Erfassung;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Erprobung
+0af2666e-a634-427b-914a-9699332d31d4;Monitoring der Lebensraumvielfalt in Agrarlandschaften - Landnutzungs-Monitoring basierend auf Fernerkundung;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+de1e9a86-c765-4d6b-a14a-b6d1076aec47;Monitoring Insekten - Hymenoptera im Obst- und Weinbau;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+31b4a1bc-e744-4b1d-b237-8f7000dd7b29;Monitoring Insekten - Parasitoide und andere Nützlinge;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;Bundesweites Monitoring der biologischen Vielfalt in Agrarlandschaften;MonViA;in Entwicklung
+bc4c5535-b6dd-4cff-a0c1-d72263cebdbb;Messprogramm-Nr. 190 - Abundanz, Reproduktion und Verbreitung marine Säuger (Ostsee) - Liegeplätze Monitoringausfahrten;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+9a3362d3-115d-46d4-8489-a5874acdcd1e;Messprogramm-Nr. 184 - Abundanz, Reproduktion und Verbreitung mariner Säuger (Ostsee) - Flugerfassung, Kompletterfassung;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+9f7d5766-1db1-46ab-be0d-074919e71f71;Messprogramm-Nr. 55 - Hardbottom Makrophytobenthos Nordsee;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+4b5e0f25-aaaa-4994-b4bb-4ab4e008ce68;Messprogramm-Nr. 186 - Abundanz, Reproduktion und Verbreitung mariner Säuger (Nordsee) - Flugerfassung;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+ad7f7043-7d12-4fd9-b314-65306c86accf;"Messprogramm-Nr. 182; Rapid Assessment Survey RAS - Gesundheitszustand marine Säuger (Nordsee) - Lebendmonitoring Seehund";Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+4dda530d-8d34-4214-b2b8-fcd7b5536fe1;Messprogramm-Nr. 180 - Abundanz und Verbreitung See- und Küstenvögel (Nordsee) - Brutvögel Anzahl und Verbreitung aller JMBB Arten, Census Areas;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+a893e564-0b5f-429c-a112-d0fbae26f292;Messprogramm-Nr. 187 - Gesundheitszustand marine Säuger (Nordsee);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+b25831f3-286f-4276-9c4e-54cc00a1e30d;Messprogramm-Nr. 76 - Bruterfolg See- und Küstenvögel (Nordsee);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+2bce6b46-fc40-4725-b050-14b9b58932c3;Messprogramm-Nr. 183 - Monitoring rastender Wasservögel;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+69f43db5-a3c2-4157-9ee7-6ba381dae91c;Messprogramm-Nr. 184 - Abundanz, Reproduktion und Verbreitung mariner Säuger (Ostsee) - Flugerfassung Transekte;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+e17330bd-5927-473c-9fe5-65df21809e49;Messprogramm-Nr. 362 - Abundanz und Verbreitung See- und Küstenvögel (Ostsee) - Rastvögel offshore;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+ddae618b-f9b5-49ac-a074-4ae99b20d29b;Messprogramm-Nr. 180 - Abundanz und Verbreitung See- und Küstenvögel (Nordsee) - Brutvögel Anzahl und Verbreitung, periodische Vollerfassung;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+0c0a610c-f9d6-4cd9-8b2a-06b387cb9598;Messprogramm-Nr. 37 - Zooplankton (Ostsee);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+d983b01c-9fea-4817-b4b2-7e3e9d911d38;Messprogramm-Nr. 36 - Zooplankton (Nordsee);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+0cf3cb32-9468-4a9a-bb22-347a90d854c0;Messprogramm-Nr. 131 - Gesundheitszustand marine Säuger (Ostsee);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+5c0c6e8f-9aef-4f14-ad00-812de5fdf2de;Messprogramm-Nr. 190 - Abundanz, Reproduktion und Verbreitung marine Säuer (Ostsee) - Liegeplätze Zufallssichtungen;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+74d5ca9d-bc79-4c10-9788-dc7323999f41;Messprogramm-Nr. 180 - Abundanz und Verbreitung See- und Küstenvögel (Nordsee) - Brutvögel Anzahl und Verbreitung ausgewählter Arten und Kolonniebrüter, Vollerfassung;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+21510249-a22a-4a5e-a8dd-e58602533e24;Messprogramm-Nr. 189 - Abundanz, Reproduktion und Verbreitung mariner Säuger (Ostsee) - Akustik - Stichprobe;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+67bb320b-6467-45f3-b972-cf2ab18a3c51;Messprogramm-Nr. 185 - Abundanz und Verbreitung See- und Küstenvögel (Nordsee) - Rastvögel (Seabirds-At-Sea, MrW);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+5c2f6148-5efe-4449-90a8-da3864f7fe74;Messprogramm-Nr. 76 - Bruterfolg See- und Küstenvögel (Ostsee);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+ceb417d3-8955-4e7f-b1ab-4cb50e4df006;Messprogramm-Nr. 181 - Abundanz, Reproduktion und Verbreitung mariner Säuger (Nordsee) - Akustik;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+12215906-fda8-4b25-853f-fff60cc6d878;Messprogramm-Nr. 50 und 114 - Erfassung nicht-einheimischer Arten in Häfen, Marinas und Aquakultur-Anlagen (Nord- und Ostsee);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+01adbe57-cab2-4276-818c-b3aced73e62e;Messprogramm-Nr. 189 - Abundanz, Reproduktion und Verbreitung mariner Säuger (Ostsee) - Akustik - Kompletterfassung;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+b73ccade-ce2f-4f32-b15c-baf1ec9d5e3a;Genetisches Monitoring;Genetisches Monitoring für Buche und Fichte in Deutschland;Genetisches Monitoring für Buche und Fichte in Deutschland;GenMon;beendet
+71d6622d-ca1a-4856-be02-71d8b9ee6168;Phänologisches Monitoring;Genetisches Monitoring für Buche und Fichte in Deutschland;Genetisches Monitoring für Buche und Fichte in Deutschland;GenMon;beendet
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Überblicksüberwachung - Fließgewässer;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+99d611ee-4ec1-46d4-bb4e-a840f861fbe8;Überblicksüberwachung - Küstengewässer;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+a7ba2e3c-ca2f-4bf0-9132-9df0b723b83b;Operative Überwachung - Grundwasser;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+7134343f-00a7-4c8e-9847-69aed6754a37;Operative Überwachung - Küstengewässer;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+91def742-703b-4964-80c7-6b029e386351;Überblicksüberwachung - Grundwasser;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+583972eb-725c-4805-a301-50dbffe2dacd;Operative Überwachung - Fließgewässer;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+7de11d6b-8b89-4647-a842-d567e0144336;Überblicksüberwachung - Übergangsgewässer;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+aa24a453-eab6-4e0d-9ef9-6bb78caa09c0;Operative Überwachung - Übergangsgewässer;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Operative Überwachung - Seen;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Überblicksüberwachung - Seen;Gewässerbewertung gemäß Wasserrahmenrichtlinie;Gewässerbewertung gemäß Wasserrahmenrichtlinie;WRRL;laufend
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Maßnahmenrelevante Arten;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;NPBsR;laufend
+f8509f6a-a28c-4657-947e-874ac2aa9c13;Altersklassenaufbau Wald;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;NPBsR;laufend
+5d8da353-9653-4485-a977-d02a19e08f94;Kernzone Biosphärenreservate;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;NPBsR;laufend
+e8e142af-a1a3-4250-9316-34d130ec8f84;Natürliche Entwicklung Wald;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;NPBsR;laufend
+2fdd1212-14a7-4305-ba25-007454adfe0e;Natürliche Waldentwicklung;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;NPBsR;laufend
+c067fcf5-35c7-41e8-9b0c-89c7ee5ebc79;Geschütze Gebiete, Zerschneidungsgrad;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;NPBsR;laufend
+980c02df-52a6-470d-8c3d-3062fa536220;Gewässerqualität;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;Integratives Monitoring der Nationalparke und Biosphärenreservate Deutschlands;NPBsR;laufend
+be2ff42f-2592-4496-9de7-3d9be6ebcc05;Integriertes Monitoring von Singvogelpopulationen;Integriertes Monitoring von Singvogelpopulationen;Integriertes Monitoring von Singvogelpopulationen;IMS;laufend
+3961e096-4002-4340-86f6-8175adf3abf8;Phänologische Beobachtungen;Intensivmonitoring (Level II);Forstliches Umweltmonitoring in Deutschland;ForUmMon;laufend
+74175851-cff6-433d-ae3a-29193e853a4e;Baumwachstum;Intensivmonitoring (Level II);Forstliches Umweltmonitoring in Deutschland;ForUmMon;laufend
+963dd99b-ccaa-40e3-bd0b-e2f2ac9cb0c6;Erhebungen zum Kronenzustand und Schadursachen;Intensivmonitoring (Level II);Forstliches Umweltmonitoring in Deutschland;ForUmMon;laufend
+a95adc45-9209-46b6-ac2a-e3c0d21bbb55;Bodenvegetation und Bewertung der epiphytischen Flechtendiversität;Intensivmonitoring (Level II);Forstliches Umweltmonitoring in Deutschland;ForUmMon;laufend
+9c3f9cbe-4350-480b-95cd-e2eb16e0df7c;Tagfaltermonitoring;Monitoring auf Flächen des Nationalen Naturerbes;Monitoring auf Flächen des Nationalen Naturerbes;MonNNE;laufend
+00c1f9bd-4733-4e89-8496-416fff0dec7e;Brutvogelmonitoring Basismodul II (+ Vertiefungsmodul) – seltene Brutvögel;Monitoring auf Flächen des Nationalen Naturerbes;Monitoring auf Flächen des Nationalen Naturerbes;MonNNE;laufend
+4f7fc33f-be63-44d8-b900-fcae0a35b0de;Brutvogelmonitoring Basismodul I – häufige Brutvögel;Monitoring auf Flächen des Nationalen Naturerbes;Monitoring auf Flächen des Nationalen Naturerbes;MonNNE;laufend
+6b9a3dde-6085-4dd5-bcf4-37a13dba392a;Waldmonitoring;Monitoring auf Flächen des Nationalen Naturerbes;Monitoring auf Flächen des Nationalen Naturerbes;MonNNE;laufend
+36864a43-6bb7-4dbe-8557-c63385634859;Fotomonitoring;Monitoring auf Flächen des Nationalen Naturerbes;Monitoring auf Flächen des Nationalen Naturerbes;MonNNE;laufend
+bfc06d29-5412-46f8-aa84-77a53d5c3679;Genetisches Monitoring;Monitoring der Großraubtiere;Monitoring der Großraubtiere;SCALP;laufend
+865dd6f2-7664-4cc4-b239-d9fc97273848;Systematische Heulanimation - Wolf;Monitoring der Großraubtiere;Monitoring der Großraubtiere;SCALP;laufend
+f316ae21-b5e2-4c95-b94a-ff68f8894a6b;Totfundmonitoring;Monitoring der Großraubtiere;Monitoring der Großraubtiere;SCALP;laufend
+c04d4989-89d7-4abc-9e7c-ba6f79950d48;Zufallshinweise - Wolf Luchs Bär;Monitoring der Großraubtiere;Monitoring der Großraubtiere;SCALP;laufend
+124e26d7-f886-4c9c-8a1a-408a4d569261;Systematisches Kamerafallenmonitoring;Monitoring der Großraubtiere;Monitoring der Großraubtiere;SCALP;laufend
+f9c20a73-79bb-455a-a469-087cebaa869b;Abspüren im Schnee;Monitoring der Großraubtiere;Monitoring der Großraubtiere;SCALP;laufend
+b6859ef7-5053-41fd-8dae-0405ab2b133f;Telemetrie - Wolf und Luchs;Monitoring der Großraubtiere;Monitoring der Großraubtiere;SCALP;laufend
+a91adacf-d8b0-4370-be89-f86047be31cb;Suche nach Hinweisen;Monitoring der Großraubtiere;Monitoring der Großraubtiere;SCALP;laufend
+ed44c5de-2eeb-4c63-bce2-6ecb51e99fb3;Kastenkontrolle und Netzfang;Monitoring Fledermauszug in Deutschland;Monitoring Fledermauszug in Deutschland;Fledermauszug;beendet
+29d29563-9ccb-4e99-aede-b73ff98b5e02;Detektornachweise und Schlagopfer;Monitoring Fledermauszug in Deutschland;Monitoring Fledermauszug in Deutschland;Fledermauszug;beendet
+a4ee685f-b75d-47c7-a087-4ca6e603a8fd;Monitoring Greifvögel und Eulen;Monitoring Greifvögel und Eulen;Monitoring Greifvögel und Eulen;MEROS;laufend
+9d208923-1ab9-4f61-a857-4624e7ed9eab;Sondererfassungen - Rotmilan Schlafplatzzählung - Synchronzählung;Monitoring häufiger Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+ca4bbe35-99c4-44d5-a0a7-9031d568a490;Generell;Monitoring häufiger Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+e56cba82-bfce-4851-a5db-1f87fb969ded;Lebensraumtypen nach Anhang I der FFH-Richtlinie - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+e621da0a-0ccc-42ce-a981-1323796aae3b;Sonstige Arten - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+0d7bbfdd-767e-48f8-94f8-e47a9784c67b;Amphibien und Reptilien - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+e7ef09d8-c5df-4d9c-9737-69ce2e81c3e1;Arten nach Anhang II und IV der FFH-Richtlinie - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+fa3763cc-187b-4836-95d2-fad9525fe843;Amphibien und Reptilien - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+66b836fc-9d48-4975-9d04-cda25afeba7b;Käfer - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+efa040e0-12b7-4684-9e5e-f29eb8f2d87a;Säugetiere (ohne Fledermäuse) - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+5256fb1f-6ee2-4db3-a3f6-a6363fc763f6;Schmetterlinge - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+de6c5383-04ec-43ef-a8ab-249b3df3bc40;Käfer - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Lebensraumtypen nach Anhang I der FFH-Richtlinie (mit Ausnahme der marinen und Küstenlebensräumen) - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+5870b3ba-3007-4a6f-961a-cd018fe16010;Sonstige Arten - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+57968b60-457d-45b7-a053-fde119e8f2db;Rundmäuler und Fische - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+57953187-dc29-46f0-9ef7-2631a4b4b61c;Fledermäuse - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+5ca85905-6c23-4852-88e2-45e81a7306fb;Säugetiere (ohne Fledermäuse und marine Säugetiere ) - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+bbd20242-a595-403b-8e71-f93eaea81ffe;Mollusken - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+be303895-3ad0-45f1-8fc3-ea660c95e4ee;Arten nach Anhang II und IV der FFH-Richtlinie - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+1f901170-a2d3-4a78-9bfd-b667c731b916;Moose - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+c88c6b9d-1d62-471f-bdff-387f01c548a9;Libellen - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+1351f751-fa94-4440-90f7-25194efa10c1;Moose - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+2a6b7681-2a97-42b3-b394-43e94b1eb4d5;Rundmäuler und Fische - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+ce72f0af-e811-41a6-a9b3-ca0fcb9fb7bd;Mollusken - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+d0be72c8-9d6b-4b1b-86fd-ebaee10a651d;Fledermäuse - Totalzensus;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+9892e92b-96d0-4593-b566-c8ca7b30f197;Libellen - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+18587ae6-c6e6-4129-8b9c-152d0e13e6d7;Rundmäuler und Fische - Allgemeine Datensammlung;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+9129cc95-d4e8-4c59-80d3-8ae80b0d29f4;Schmetterlinge - Stichprobe;Monitoring nach FFH-Richtlinie;Monitoring nach FFH-Richtlinie;FFH;laufend
+169243ef-aa9a-4767-900e-4981f4b39f36;Schlafplatzzählung - Kranich;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+56af0256-1848-45f0-a912-6a5dafd1d007;Rastvogelerfassungen im Rahmen des Trilateral Monitoring and Assessment Programs im Wattenmeer - Joint Monitoring Program for Breeding Birds in the Wadden Sea - Anzahl und Verbreitung ausgewählter Arten und Kolonniebrüter, Vollerfassung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+574cf672-1dd4-4075-97d5-2c8023ce9916;Seabirds at Sea (SAS) / Seevogelmonitoring;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+4f5565da-ef23-40ea-9eb2-1e11c07c5360;Rastvogelerfassungen im Rahmen des Trilateral Monitoring and Assessment Programs im Wattenmeer - Zugvögel synchronisierte Zählung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+8f6bf7e1-a0ec-4529-9432-65cb2128d6d1;Rastvogelerfassungen im Rahmen des Trilateral Monitoring and Assessment Programs im Wattenmeer - Zugvögel Springtidenzählung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+b5a52e57-9ee6-4865-ab6a-df2168ccde20;Synchronzählungen - europaweite Kiebitz- und Goldregenpfeifer-Zählung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+a0353c62-874d-4479-a0f6-4b9f28ba9197;Synchronzählung Sommergänsezählung (NRW) - Rastende Gänse und Schwäne (Feldzählung) - Wasservogelzählung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+71b77839-e8b0-4f5b-a0fb-73a5d18fcc4b;Synchronzählungen - Europaweite Zwerg- und Singschwanzählung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+69a501a9-4382-47e0-bb0a-e7ad92c22ae7;Wasservogelzählung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+71c7d23d-495e-40c6-8e59-daede63f4476;Rastvogelerfassungen im Rahmen des Trilateral Monitoring and Assessment Programs im Wattenmeer - Joint Monitoring Program for Breeding Birds in the Wadden Sea - Anzahl und Verbreitung, periodische Vollerfassung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+0dc6234b-eadb-4250-9c18-344e16f3f6a9;"Synchronzählung Sommergänsezählung (Niedersachsen; Bremen) - Rastende Gänse und Schwäne (Feldzählung) - Wasservogelzählung";Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+59e4bf5d-7d12-42de-9326-78d08c24ebc3;Rastende Gänse und Schwäne - Feldzählung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+aa82115d-1b23-4882-9bfc-e2dca9b12d93;Rastende Gänse und Schwäne - Schalfplatzzählung;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+32ddcf6e-3944-491a-b4e0-23c1555a4627;Rastvogelerfassungen im Rahmen des Trilateral Monitoring and Assessment Programs im Wattenmeer - Joint Monitoring Program for Breeding Birds in the Wadden Sea - Anzahl und Verbreitung, Census Areas;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+61b44d58-bdee-41a1-b9bd-88f5c78b2e7c;Rastvogelerfassungen im Rahmen des Trilateral Monitoring and Assessment Programs im Wattenmeer - Brutvögel - Bruterfolg;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+6abc4bc5-eaaf-40d3-ac69-0e5cf24fd57c;Synchronzählungen - Europaweite Schlafplatzzählung - Kormoran;Monitoring rastender Wasservögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+c94f4eca-0bf5-49a9-a661-9a96cdf95983;Brutbestandsmonitoring Uferschwalbe - Koloniebrüter-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+ea503c07-4cd4-4266-8110-117dad7ff30c;Brutbestandsmonitoring Möwen und Seeschwalben (im Binnenland) - Möwen und Seeschwalben-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+c923b8dd-000e-4726-a8f2-819916c924d1;Brutbestandsmonitoring Rebhuhn;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+f6e705ac-1f0e-4c2c-8c12-6ac9d43ff064;Brutbestandsmonitoring Bienenfresser - optionales Koloniebrüter-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+b8a4aa0d-4d7c-4054-b8dd-a43ee23589e4;Brutbestandsmonitoring Wachtelkönig - Wachtelkönig-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+328f5d50-54f5-4c43-bbd3-ad521e2ebeac;Brutbestandsmonitoring Graureiher - Koloniebrüter-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+49b471ba-aafd-42c9-8b61-b992b449b3fb;Brutbestandsmonitoring Röhrichtbrüter - Röhrichtbrüter-Modul - optional Binnengewässer-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+3099130b-85c5-4903-ac49-a346adccbb2e;Brutbestandsmonitoring Spechte - Specht-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+a9d17447-8f28-4f60-93aa-38bb2206a286;Brutbestandsmonitoring Binnengewässerarten - Binnengewässer-Modul - Wiesenlimikolen-Modul für Grünlandarten - Optionale Kombination mit dem Röhrichtbrüter-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+acae6f73-149f-4e13-83fc-8888ffb4eebd;Brutbestandsmonitoring Zaunammer - Zaunammer-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+fc3070b2-e461-4b79-b3e4-e2e2e3c473ac;Brutbestandsmonitoring Wiesenlimikolen - Wiesenlimikolen-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+147b7a43-0297-4406-a09a-a01141a1b8f2;Brutbestandsmonitoring Saatkrähe - Koloniebrüter-Modul;Monitoring seltener Brutvögel;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+a1da458d-ea7d-415d-bc90-6976c72c6252;Monitoring von Landwirtschaftsflächen mit hohem Naturwert;Monitoring von Landwirtschaftsflächen mit hohem Naturwert;Monitoring von Landwirtschaftsflächen mit hohem Naturwert;HNV;laufend
+50051435-69cf-4b98-a8dd-f9053b0098fd;Totalzensus;Nationales Biodiversitätsmonitoring im Wald;Nationales Biodiversitätsmonitoring im Wald;NaBioWald;in Entwicklung
+81af308b-a8be-433d-83f5-a5663b6ac789;Stichprobe;Nationales Biodiversitätsmonitoring im Wald;Nationales Biodiversitätsmonitoring im Wald;NaBioWald;in Entwicklung
+226a7203-ca30-4c86-bd7b-2ef2ec27ed7d;Ökosystem-Monitoring;Ökosystem-Monitoring;Ökosystem-Monitoring;ÖSM;in Erprobung
+0772a71d-6b13-4a0d-a6ef-513140d5ecc4;Monitoring der Biometrie erlegter Tiere;Schalenwildmonitoring in deutschen Nationalparken;Schalenwildmonitoring in deutschen Nationalparken;Schalenwild;in Erprobung
+0f7b47af-0f88-4d95-94d9-606503ed44ac;Wildwirkungsmonitoring;Schalenwildmonitoring in deutschen Nationalparken;Schalenwildmonitoring in deutschen Nationalparken;Schalenwild;in Erprobung
+54fee634-96f5-43b0-8732-551f0a74dc28;Populationsmonitoring;Schalenwildmonitoring in deutschen Nationalparken;Schalenwildmonitoring in deutschen Nationalparken;Schalenwild;in Erprobung
+b4f4fb0f-bd37-4b71-b6b1-754cc3bafb27;Tagfalter-Monitoring Deutschland;Tagfalter-Monitoring Deutschland;Tagfalter-Monitoring Deutschland;TMD;laufend
+d7eaaa11-a64d-4d5e-8fdd-c9aced361ddb;Zugvögel - Vollerfassung aller Wasservögel;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+9752b5ae-ad60-47d8-88ec-24abfea03436;Seegras - Fernerkundung;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+89493266-16b5-41b2-b2db-8a730e315c54;Säugetiere - Kegelrobbe (Halichoerus grypus);Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+899eaa3a-b8ba-47de-bbd4-0a154b53a88d;Joint Monitoring Program for Breeding Birds in the Wadden Sea - Anzahl und Verbreitung ausgewählter Arten und Kolonniebrüter, Vollerfassung;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+1e00a09a-d82f-429c-91e3-7c223d837fcc;Strände und Dünen - Stichprobe;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;in Entwicklung
+0a01f707-6222-4a14-a799-6d40ceabd8f9;Muschelbänke - Eulitoral - in situ;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+9c846459-b069-44b7-b719-359770f26590;Salzwiesen - Stichprobe;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+b21651cf-e205-4936-8e17-a8ee6ca0745b;Mammals - harbour seal - Phoca vitulina (Seehund);Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+c0b49072-58ad-470c-907f-397f8cc57ee4;Rastvogelerfassungen im Rahmen des Trilateral Monitoring and Assessment Programs im Wattenmeer - Zugvögel Vollerfassung;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+cfb2cca3-ecc3-4bae-9ae0-ca26444237ec;Joint Monitoring Program for Breeding Birds in the Wadden Sea - Bruterfolg;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+d1f24ead-ed9e-42ef-b9de-4a823143f0ca;Phytoplankton;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+dc738cd2-fdd3-4733-9840-08bf887de04d;Muschelbänke - Eulitoral - Fernerkundung;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+6b2a36ac-94ad-4e2d-a0b0-538b1ed5db7c;Macrozoobenthos;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+4a989cb5-ca6e-46d4-881f-7310816c0768;Zugvögel - Springtidenzählung;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+00a31df4-6d27-4e33-bee4-c0ec62738b50;Salzwiesen - Fernerkundung;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+0180e8fb-7d5d-427b-93d9-11f465ff04fb;Subtidale Habitate - Sabellaria Riffe;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;in Entwicklung
+34515994-48c6-4d01-a3e7-995ce486c212;Macroalgen - Befliegungen;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+68fe9017-1736-4952-b9b0-e42aca057784;Joint Monitoring Program for Breeding Birds in the Wadden Sea - Anzahl und Verbreitung, periodische Vollerfassung;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+06bd8887-f60e-438c-896c-309a32a29618;Macroalgen - in-situ;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+6b87d438-22c2-4e0e-aed1-0bd4b163cdfa;Säugetiere - Schweinswal (Phocoena phocoena);Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;in Entwicklung
+6bb2d678-85a4-4860-a4cc-7b0989e30d56;Fische;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+301c22b7-5e70-4364-bc02-0cdf64eba8d5;Zugvögel - Synchronerfassung - bestimmte Arten;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+7b155d93-6522-43b3-93f3-2f6ec883155b;Seegras - in-situ;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+2f86922e-7f17-4b1f-a356-ac2213b9481a;Joint Monitoring Program for Breeding Birds in the Wadden Sea - Anzahl und Verbreitung aller JMBB Arten, Census Areas;Trilaterales Überwachungs und Bewertungs-Programm;Trilaterales Überwachungs und Bewertungsprogramm;TMAP;laufend
+850aa3ba-da7a-4a2d-860a-9d0dc183e906;Gesamtbestandsermittlung;Vogelmonitoring in Europäischen Vogelschutzgebieten;Bundesweites Vogelmonitoring;Vogelmonitoring;in Entwicklung
+ea3e5bf3-7221-48f2-8b6a-b9e08f41da68;Bestandstrends häufiger Brutvögel in Schutzgebieten (MhB-S);Vogelmonitoring in Europäischen Vogelschutzgebieten;Bundesweites Vogelmonitoring;Vogelmonitoring;in Entwicklung
+90caef7e-320d-404f-82ff-2bd19ac830c6;Bestandstrends rastender Wasservögel (MrW);Vogelmonitoring in Europäischen Vogelschutzgebieten;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+f0815a80-6323-42df-a488-a50844cb38bd;Bestandstrends seltener Brutvögel (MsB);Vogelmonitoring in Europäischen Vogelschutzgebieten;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+fff930c3-2a5d-4bf7-b773-30b06abae9d9;Bestandstrends häufiger Brutvögel (MhB);Vogelmonitoring in Europäischen Vogelschutzgebieten;Bundesweites Vogelmonitoring;Vogelmonitoring;laufend
+d6d866e5-97a0-457d-af79-062376994a71;Erhebungen zum Kronenzustand und Schadursachen;Waldzustandserhebung;Forstliches Umweltmonitoring in Deutschland;ForUmMon;laufend
+280f0b3e-77d3-4a82-8c71-8ae542c8663b;Genetische Analyse - Kürflächen;Wildkatzensprung;Wildkatzensprung;Wildkatze;beendet
+1420faa7-08b1-4feb-bdaf-89fde578fa70;Kamerafalle;Wildkatzensprung;Wildkatzensprung;Wildkatze;beendet
+b3614210-69ff-4d85-b3eb-3283e42a345a;Genetische Analyse - Pflichtflächen;Wildkatzensprung;Wildkatzensprung;Wildkatze;beendet
+0c47055a-777e-419f-b50e-706efa095046;Rebhuhn - Flächendeckende Einschätzung;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+a864b182-4295-4c1b-9fb8-afd0ededd8d9;Fuchs, Dachs und Marderhund - Flächendeckende Einschätzung;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+9a1551d5-9b01-4466-8c9e-b3bb0155ece3;Fuchs und Dachs - Referenzgebiet;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+9a09b6d5-a408-44b1-872e-2430b3c70f2a;Aaskrähe - Referenzgebiet;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+1dfb381d-a5ca-4a3c-a938-76640a29ce04;Aaskrähe - Flächendeckende Einschätzung;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+4e287832-22dd-4bcd-b3a1-879b5cda46b5;Jagdstreckenerfassung - Fall- und Unfallwild;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+7b7af96a-f65a-49b6-920b-815208d9b49e;Feldhase - Flächendeckende Einschätzung;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+40b7979c-7f41-4017-a85f-5e2ab2472a10;Jagdstreckenerfassung - Jagd;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+512c4f28-01a6-4c8e-aedd-d47a0e611437;Rebhuhn - Referenzgebiet;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+1c993682-4f15-4f98-b5fb-a3b448abba2a;Feldhase - Referenzgebiet;Wildtier-Informationssystem der Länder Deutschlands;Wildtier-Informationssystem der Länder Deutschlands;WILD;laufend
+51cacf49-5c83-4a87-8bc9-eecf0e14585a;Messprogramm-Nr. 100 - German Small-scale Bottom Trawl Survey (GSBTS);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+0c95b3fa-1c29-429c-8d81-47ceff172ba2;Messprogramm-Nr. 101 - Dermersal Young Fish Survey (DYFS) - AWZ/Küstenmeer Nordsee;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+d4a53599-701e-45e7-ad6b-977c5742415b;Beam Trawl Survey (BTS) – südliche Nordsee (Dänemark, Holland, Deutschland) (Messprogramm-Nr. 103);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+2dc436d6-5679-421e-84db-2ec40b115f55;Hardbottom Makrozoobenthos (Küste und AWZ, Ostsee) (Messprogramm-Nr. 118);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+b0921dba-9b3c-4651-82de-c547c3c0b326;Softbottom Makrozoobenthos (Küste und AWZ, Ostsee) (Messprogramm-Nr. 119);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+e848e716-4a15-4c61-a758-8b0158b9b570;Messprogramm-Nr. 128 - Softbottom Makrophytobenthos Nordsee;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+107ccb55-5a2f-457c-b039-ce8a559b938f;Messprogramm-Nr. 129 - Softbottom Makrophytobenthos innere Ostsee;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+279c31bf-3055-4106-b7e4-0aaa290a79a5;WRRL-Fische Übergangsgewässer Weser (Nordsee) (Messprogramm-Nr. 215);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+14db0e88-1cb6-4a34-be51-65e6fa193cf8;WRRL-Fische Übergangsgewässer Ems (Nordsee) (Messprogramm-Nr. 216);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+0315feb3-ce27-4dcb-8a57-067cf5bc8661;Hamen-Befischungen (Küstengewässer Nordsee (SH)) (Messprogramm-Nr. 217);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+abb75964-cd58-4970-83c7-724acf26ea01;WRRL-Fische Übergangsgewässer Elbe (Nordsee) (Messprogramm-Nr. 218);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+55ff600c-8dcf-4084-9251-0eab76082f33;Internationaler Dogger Bank Survey (Messprogramm-Nr. 243);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+334cc03b-692b-49bc-be15-f3c2d04dea4a;Heringslarvensurvey (Nordsee) (Messprogramm-Nr. 246);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+a07121ef-f5f4-4ed0-9a73-202a76b4d5aa;Hamen-Befischungen (Küstengewässer Nordsee (NI)) (Messprogramm-Nr. 339);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+d1614c5e-3fcf-4164-a29a-1baf7f2f56c6;Erfassung von Riffen in der deutschen Ausschließlichen Wirtschaftszone (AWZ) der Nordsee (Messprogramm-Nr. 340);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+b151a5eb-12ca-40c2-8d27-0899c0243dbe;Messprogramm-Nr. 340 - Erfassung von Riffen in der deutschen Ausschließlichen Wirtschaftszone (AWZ) der Nordsee;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+80a73edb-206e-4070-a2da-c1ef20c62dc5;Erfassung von Sandbänken in der deutschen Ausschließlichen Wirtschaftszone (AWZ) der Nordsee (Messprogramm-Nr. 341) - Endofauna;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+02ccf273-5911-484c-bf32-cadc4cdb5902;Erfassung von Sandbänken in der deutschen Ausschließlichen Wirtschaftszone (AWZ) der Nordsee (Messprogramm-Nr. 341) - Epifauna;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+1e496af5-d530-41a8-96a7-783ebec83320;Messprogramm-Nr. 342 - Erfassung von Riffen in der deutschen Ausschließlichen Wirtschaftszone (AWZ) der Ostsee;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+65a396a9-4b86-4314-a03d-5154f98ae1b7;Messprogramm-Nr. 343 - Erfassung von Sandbänken in der deutschen Ausschließlichen Wirtschaftszone (AWZ) der Ostsee;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+f84152e9-54ee-4dfe-89c6-c384a35e9890;Phytoplankton – Chlorophyll a und Blüten (Nordsee) (Messprogramm-Nr. 38);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+a834a70f-0ad6-45aa-9665-df9e2517db28;Phytoplankton – Chlorophyll a und Blüten (Ostsee) (Messprogramm-Nr. 39);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+afe7371f-1005-417d-bf99-17f8e7c81458;Phytoplankton – Artenzusammensetzung, Abundanz, Biomasse (Nordsee) (Messprogramm-Nr. 40);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+c9501834-40b9-4313-ac28-307ca4a823f4;Phytoplankton – Artenzusammensetzung, Abundanz, Biomasse (Ostsee) (Messprogramm-Nr. 41);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+d4146a6d-f171-4e84-9d22-b6de16fd7aac;Hardbottom Makrophytobenthos Ostsee (Messprogramm-Nr. 56);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+365b4f31-b1f0-4a4c-97ae-486985ada15e;Hardbottom Makrozoobenthos (Küste und AWZ, Nordsee, explizit Helgoland und Riffe) (Messprogramm-Nr. 57);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+02723c41-1f60-4355-af25-44bf3c08ed93;Softbottom Makrozoobenthos (Küste und AWZ, Nordsee) (Messprogramm-Nr. 62);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+83a0ff46-30cd-44f9-b323-a72c69647b9f;Baltic International Trawl Survey (BITS), Ostsee (Messprogramm-Nr. 77);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+121175d1-82bb-46f8-8056-160440babf07;Boxenmonitoring westliche Ostsee (BaltBox) (Messprogramm-Nr. 78);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+667d3223-be08-4a04-9747-ec11f22dcc87;Hydroakustische Bestandsaufnahme pelagischer Fischarten in der westlichen Ostsee (German Autumn Acoustic Survey, GERAS) (Messprogramm-Nr. 79);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+bf854d78-a629-4ff5-ac4c-c29b06b28bf4;Hydroakustik-Survey GerBASS, Ostsee (Messprogramm-Nr. 82);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+971cc561-cc99-405c-83aa-c7ff5c499ba3;Messprogramm-Nr. 89 - Effizienzkontrolle Meerforellenbesatz Mecklenburg-Vorpommern;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+31509a87-722e-4fb6-93e2-eb665068a2c5;International acoustic survey in the North Sea, west of Scotland and Malin Shelf (HERAS) - Nordsee - Fischereihols (Messprogramm-Nr. 97);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+a13ca263-b812-4127-8a4b-6016142875a8;International acoustic survey in the North Sea, west of Scotland and Malin Shelf (HERAS) - Nordsee - Echolot (Messprogramm-Nr. 97);Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend
+956de785-2545-49fa-9e2c-d5096ded4f23;Messprogramm-Nr. 99 - German Autumn Trawl Survey (GASEEZ) - AWZ Nordsee;Bund/Länder-Messprogramme;Bund/Länder-Messprogramme;BLMP;laufend

@@ -49,8 +49,6 @@ data/raw/
 data/intermediate/
 
 # Optional binary formats
-*.rds
-*.Rds
 *.RData
 
 # =========================================================

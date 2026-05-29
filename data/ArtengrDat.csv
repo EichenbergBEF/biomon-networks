@@ -1,0 +1,572 @@
+fk_modul_id;Artengruppe;BV_Art;Fokus;Sphaere;Biol_Fokus_f;Sphaere_f;Progrshort
+00139181-5fe0-4fd2-9a62-40d9228a90cf;Mikroorganismen;Abundanz der Gemeinschaft;Keiner;edaphisch;Keiner;edaphisch;BDF
+00c1f9bd-4733-4e89-8496-416fff0dec7e;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonNNE
+00c1f9bd-4733-4e89-8496-416fff0dec7e;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;MonNNE
+00c1f9bd-4733-4e89-8496-416fff0dec7e;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;MonNNE
+0180e8fb-7d5d-427b-93d9-11f465ff04fb;Andere Wirbellose;Artvorkommen;Habitate;marin;Habitate;marin;TMAP
+01adbe57-cab2-4276-818c-b3aced73e62e;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+06b7796b-d1b6-4b93-bbc9-cd445d21540e;Regenwürmer;Artvorkommen;Keiner;edaphisch;Keiner;edaphisch;BDF
+06b7796b-d1b6-4b93-bbc9-cd445d21540e;Andere Wirbellose;Artvorkommen;Keiner;edaphisch;Keiner;edaphisch;BDF
+06bd8887-f60e-438c-896c-309a32a29618;Algen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;TMAP
+0772a71d-6b13-4a0d-a6ef-513140d5ecc4;Säugetiere;Morphologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Schalenwild
+0a01f707-6222-4a14-a799-6d40ceabd8f9;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;TMAP
+0c0a610c-f9d6-4cd9-8b2a-06b387cb9598;Mikroorganismen;taxonomische/phylogenetische Vielfalt;Artengruppen;marin;Artengruppen;marin;BLMP
+0c47055a-777e-419f-b50e-706efa095046;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+0cf3cb32-9468-4a9a-bb22-347a90d854c0;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+0cf3cb32-9468-4a9a-bb22-347a90d854c0;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+0cf3cb32-9468-4a9a-bb22-347a90d854c0;Fische;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+0cf3cb32-9468-4a9a-bb22-347a90d854c0;Fische;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+0d7bbfdd-767e-48f8-94f8-e47a9784c67b;Amphibien/Reptilien;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+0d7bbfdd-767e-48f8-94f8-e47a9784c67b;Amphibien/Reptilien;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+0d7bbfdd-767e-48f8-94f8-e47a9784c67b;Amphibien/Reptilien;Artvorkommen;Habitate & Artengruppen;edaphisch;Habitate & Artengruppen;edaphisch;FFH
+0d7bbfdd-767e-48f8-94f8-e47a9784c67b;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+0d7bbfdd-767e-48f8-94f8-e47a9784c67b;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+0d7bbfdd-767e-48f8-94f8-e47a9784c67b;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;edaphisch;Habitate & Artengruppen;edaphisch;FFH
+0dc6234b-eadb-4250-9c18-344e16f3f6a9;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+0dc6234b-eadb-4250-9c18-344e16f3f6a9;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+0f7b47af-0f88-4d95-94d9-606503ed44ac;Gefäßpflanzen und Farne;Physiologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Schalenwild
+0f7b47af-0f88-4d95-94d9-606503ed44ac;Säugetiere;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Schalenwild
+11fdf7df-b27c-499c-98bc-862cfae44470;Gefäßpflanzen und Farne;Artvorkommen;Keiner;terrestrisch;Keiner;terrestrisch;BDF
+12215906-fda8-4b25-853f-fff60cc6d878;Mollusken;genetische Differenzierung;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Mollusken;genetische Differenzierung;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Fische;genetische Differenzierung;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Fische;genetische Differenzierung;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Algen;taxonomische/phylogenetische Vielfalt;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Algen;taxonomische/phylogenetische Vielfalt;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Gefäßpflanzen und Farne;taxonomische/phylogenetische Vielfalt;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Gefäßpflanzen und Farne;taxonomische/phylogenetische Vielfalt;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Andere Wirbellose;taxonomische/phylogenetische Vielfalt;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Andere Wirbellose;taxonomische/phylogenetische Vielfalt;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Krebstiere;taxonomische/phylogenetische Vielfalt;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+12215906-fda8-4b25-853f-fff60cc6d878;Krebstiere;taxonomische/phylogenetische Vielfalt;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;BLMP
+124e26d7-f886-4c9c-8a1a-408a4d569261;Säugetiere;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;SCALP
+1351f751-fa94-4440-90f7-25194efa10c1;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+13e462ea-29cf-4dd8-baee-0460dcdaa67e;Mikroorganismen;Abundanz der Gemeinschaft;Keiner;edaphisch;Keiner;edaphisch;BDF
+1420faa7-08b1-4feb-bdaf-89fde578fa70;Säugetiere;Phänologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Wildkatze
+147b7a43-0297-4406-a09a-a01141a1b8f2;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+147b7a43-0297-4406-a09a-a01141a1b8f2;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+169243ef-aa9a-4767-900e-4981f4b39f36;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+169243ef-aa9a-4767-900e-4981f4b39f36;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+169243ef-aa9a-4767-900e-4981f4b39f36;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Mikroorganismen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Algen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Libellen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Käfer;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+17ca3bfb-89f8-4b6d-84b5-d5a0807b4ba4;Schmetterlinge;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+18587ae6-c6e6-4129-8b9c-152d0e13e6d7;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+18587ae6-c6e6-4129-8b9c-152d0e13e6d7;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+19e44e1b-a3f9-413a-9538-312df8acf93b;Regenwürmer;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;BDF
+1c993682-4f15-4f98-b5fb-a3b448abba2a;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+1dfb381d-a5ca-4a3c-a938-76640a29ce04;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+1f901170-a2d3-4a78-9bfd-b667c731b916;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+21510249-a22a-4a5e-a8dd-e58602533e24;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+226a7203-ca30-4c86-bd7b-2ef2ec27ed7d;Gefäßpflanzen und Farne;Artenhäufigkeiten;Habitate;terrestrisch;Habitate;terrestrisch;ÖSM
+226a7203-ca30-4c86-bd7b-2ef2ec27ed7d;Gefäßpflanzen und Farne;Artenhäufigkeiten;Habitate;limnisch;Habitate;limnisch;ÖSM
+280f0b3e-77d3-4a82-8c71-8ae542c8663b;Säugetiere;genetische Differenzierung;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Wildkatze
+29d29563-9ccb-4e99-aede-b73ff98b5e02;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Fledermauszug
+2a6b7681-2a97-42b3-b394-43e94b1eb4d5;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+2a6b7681-2a97-42b3-b394-43e94b1eb4d5;Andere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+2a6b7681-2a97-42b3-b394-43e94b1eb4d5;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+2bce6b46-fc40-4725-b050-14b9b58932c3;Vögel;Morphologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+2bce6b46-fc40-4725-b050-14b9b58932c3;Vögel;Morphologie;Artengruppen;limnisch;Artengruppen;limnisch;BLMP
+2bce6b46-fc40-4725-b050-14b9b58932c3;Vögel;Morphologie;Artengruppen;marin;Artengruppen;marin;BLMP
+2f86922e-7f17-4b1f-a356-ac2213b9481a;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;TMAP
+2fdd1212-14a7-4305-ba25-007454adfe0e;Vögel;Artenhäufigkeiten;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+2fdd1212-14a7-4305-ba25-007454adfe0e;Säugetiere;Artenhäufigkeiten;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+2fdd1212-14a7-4305-ba25-007454adfe0e;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+2fdd1212-14a7-4305-ba25-007454adfe0e;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+2fdd1212-14a7-4305-ba25-007454adfe0e;Amphibien/Reptilien;Artenhäufigkeiten;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+2fdd1212-14a7-4305-ba25-007454adfe0e;Schmetterlinge;Artenhäufigkeiten;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+2fdd1212-14a7-4305-ba25-007454adfe0e;Fische;Artenhäufigkeiten;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+2fdd1212-14a7-4305-ba25-007454adfe0e;Käfer;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+2fdd1212-14a7-4305-ba25-007454adfe0e;Andere;Artenhäufigkeiten;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+301c22b7-5e70-4364-bc02-0cdf64eba8d5;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;TMAP
+301c22b7-5e70-4364-bc02-0cdf64eba8d5;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;TMAP
+3099130b-85c5-4903-ac49-a346adccbb2e;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+30cfdaf7-337f-4ed4-a76b-95356d7ba3ec;Andere Wirbellose;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+31b4a1bc-e744-4b1d-b237-8f7000dd7b29;Andere Wirbellose;Interaktionsvielfalt;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+328f5d50-54f5-4c43-bbd3-ad521e2ebeac;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+328f5d50-54f5-4c43-bbd3-ad521e2ebeac;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+32ddcf6e-3944-491a-b4e0-23c1555a4627;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+34515994-48c6-4d01-a3e7-995ce486c212;Algen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;TMAP
+36864a43-6bb7-4dbe-8557-c63385634859;Moose und Flechten;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonNNE
+36864a43-6bb7-4dbe-8557-c63385634859;Moose und Flechten;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;MonNNE
+36864a43-6bb7-4dbe-8557-c63385634859;Moose und Flechten;Artvorkommen;Artengruppen;marin;Artengruppen;marin;MonNNE
+36864a43-6bb7-4dbe-8557-c63385634859;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonNNE
+36864a43-6bb7-4dbe-8557-c63385634859;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;MonNNE
+36864a43-6bb7-4dbe-8557-c63385634859;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;marin;Artengruppen;marin;MonNNE
+3961e096-4002-4340-86f6-8175adf3abf8;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;ForUmMon
+40b7979c-7f41-4017-a85f-5e2ab2472a10;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+40b7979c-7f41-4017-a85f-5e2ab2472a10;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+49b471ba-aafd-42c9-8b61-b992b449b3fb;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+49b471ba-aafd-42c9-8b61-b992b449b3fb;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+4a989cb5-ca6e-46d4-881f-7310816c0768;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;TMAP
+4b5e0f25-aaaa-4994-b4bb-4ab4e008ce68;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+4b5e0f25-aaaa-4994-b4bb-4ab4e008ce68;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+4c209ab4-fd6d-4f19-9182-6ac3925facef;Andere Wirbellose;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+4d04f5cb-c107-44bf-97fe-d202dfac153f;Gefäßpflanzen und Farne;Artenhäufigkeiten;Habitate;terrestrisch;Habitate;terrestrisch;BWI
+4dda530d-8d34-4214-b2b8-fcd7b5536fe1;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+4e287832-22dd-4bcd-b3a1-879b5cda46b5;Vögel;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+4e287832-22dd-4bcd-b3a1-879b5cda46b5;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+4f5565da-ef23-40ea-9eb2-1e11c07c5360;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+4f5565da-ef23-40ea-9eb2-1e11c07c5360;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+4f7fc33f-be63-44d8-b900-fcae0a35b0de;Vögel;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonNNE
+50051435-69cf-4b98-a8dd-f9053b0098fd;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NaBioWald
+512c4f28-01a6-4c8e-aedd-d47a0e611437;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+5256fb1f-6ee2-4db3-a3f6-a6363fc763f6;Schmetterlinge;Morphologie;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+5256fb1f-6ee2-4db3-a3f6-a6363fc763f6;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+526ad6e7-6759-4805-ac49-be55987bcba0;Andere Wirbellose;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+526ad6e7-6759-4805-ac49-be55987bcba0;Andere Wirbellose;Artenhäufigkeiten;Artengruppen;limnisch;Artengruppen;limnisch;MonViA
+54fee634-96f5-43b0-8732-551f0a74dc28;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Schalenwild
+56af0256-1848-45f0-a912-6a5dafd1d007;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+574cf672-1dd4-4075-97d5-2c8023ce9916;Vögel;Morphologie;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+57953187-dc29-46f0-9ef7-2631a4b4b61c;Säugetiere;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+57968b60-457d-45b7-a053-fde119e8f2db;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+57968b60-457d-45b7-a053-fde119e8f2db;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+57968b60-457d-45b7-a053-fde119e8f2db;Andere;Andere;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+57968b60-457d-45b7-a053-fde119e8f2db;Andere;Andere;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+57968b60-457d-45b7-a053-fde119e8f2db;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+57968b60-457d-45b7-a053-fde119e8f2db;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+583972eb-725c-4805-a301-50dbffe2dacd;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Libellen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Käfer;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Schmetterlinge;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Algen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Mikroorganismen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+583972eb-725c-4805-a301-50dbffe2dacd;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+5870b3ba-3007-4a6f-961a-cd018fe16010;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+59e4bf5d-7d12-42de-9326-78d08c24ebc3;Vögel;Physiologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+59e4bf5d-7d12-42de-9326-78d08c24ebc3;Vögel;Physiologie;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+59e4bf5d-7d12-42de-9326-78d08c24ebc3;Vögel;Physiologie;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+5b5938c5-2e24-4318-98f1-5708e8d99304;Gefäßpflanzen und Farne;Artvorkommen;Keiner;terrestrisch;Keiner;terrestrisch;BDF
+5b5938c5-2e24-4318-98f1-5708e8d99304;Moose und Flechten;Artvorkommen;Keiner;terrestrisch;Keiner;terrestrisch;BDF
+5c0c6e8f-9aef-4f14-ad00-812de5fdf2de;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+5c0c6e8f-9aef-4f14-ad00-812de5fdf2de;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+5c2f6148-5efe-4449-90a8-da3864f7fe74;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+5ca85905-6c23-4852-88e2-45e81a7306fb;Säugetiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+5ca85905-6c23-4852-88e2-45e81a7306fb;Säugetiere;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+61b44d58-bdee-41a1-b9bd-88f5c78b2e7c;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+620b1688-fa7f-446e-97ed-8c41754d7514;Gefäßpflanzen und Farne;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+66b836fc-9d48-4975-9d04-cda25afeba7b;Käfer;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+66b836fc-9d48-4975-9d04-cda25afeba7b;Käfer;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+66b836fc-9d48-4975-9d04-cda25afeba7b;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+66b836fc-9d48-4975-9d04-cda25afeba7b;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+66b836fc-9d48-4975-9d04-cda25afeba7b;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+66b836fc-9d48-4975-9d04-cda25afeba7b;Fische;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+67bb320b-6467-45f3-b972-cf2ab18a3c51;Vögel;Morphologie;Artengruppen;marin;Artengruppen;marin;BLMP
+68fe9017-1736-4952-b9b0-e42aca057784;Vögel;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;TMAP
+69a501a9-4382-47e0-bb0a-e7ad92c22ae7;Vögel;Morphologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+69a501a9-4382-47e0-bb0a-e7ad92c22ae7;Vögel;Morphologie;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+69a501a9-4382-47e0-bb0a-e7ad92c22ae7;Vögel;Morphologie;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+69f43db5-a3c2-4157-9ee7-6ba381dae91c;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+69f43db5-a3c2-4157-9ee7-6ba381dae91c;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+6abc4bc5-eaaf-40d3-ac69-0e5cf24fd57c;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+6abc4bc5-eaaf-40d3-ac69-0e5cf24fd57c;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+6abc4bc5-eaaf-40d3-ac69-0e5cf24fd57c;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+6b2a36ac-94ad-4e2d-a0b0-538b1ed5db7c;Krebstiere;Artenhäufigkeiten;Artengruppen;marin;Artengruppen;marin;TMAP
+6b2a36ac-94ad-4e2d-a0b0-538b1ed5db7c;Mollusken;Artvorkommen;Artengruppen;marin;Artengruppen;marin;TMAP
+6b2a36ac-94ad-4e2d-a0b0-538b1ed5db7c;Andere Wirbellose;Artvorkommen;Artengruppen;marin;Artengruppen;marin;TMAP
+6b9a3dde-6085-4dd5-bcf4-37a13dba392a;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonNNE
+6bb2d678-85a4-4860-a4cc-7b0989e30d56;Fische;Artenhäufigkeiten;Artengruppen;marin;Artengruppen;marin;TMAP
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Fische;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Algen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Algen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Algen;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Vögel;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Vögel;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Vögel;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Mollusken;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Krebstiere;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Käfer;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Käfer;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Käfer;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Säugetiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Säugetiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Säugetiere;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Spinnen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Spinnen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Spinnen;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Amphibien/Reptilien;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Amphibien/Reptilien;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+6ddb0809-9e9a-4613-85f6-3ef26da41128;Amphibien/Reptilien;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+7134343f-00a7-4c8e-9847-69aed6754a37;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+7134343f-00a7-4c8e-9847-69aed6754a37;Algen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+7134343f-00a7-4c8e-9847-69aed6754a37;Mikroorganismen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+7134343f-00a7-4c8e-9847-69aed6754a37;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+7134343f-00a7-4c8e-9847-69aed6754a37;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+7134343f-00a7-4c8e-9847-69aed6754a37;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+7134343f-00a7-4c8e-9847-69aed6754a37;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+71b77839-e8b0-4f5b-a0fb-73a5d18fcc4b;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+71b77839-e8b0-4f5b-a0fb-73a5d18fcc4b;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+71b77839-e8b0-4f5b-a0fb-73a5d18fcc4b;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+71c7d23d-495e-40c6-8e59-daede63f4476;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+71d6622d-ca1a-4856-be02-71d8b9ee6168;Gefäßpflanzen und Farne;Phänologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;GenMon
+74175851-cff6-433d-ae3a-29193e853a4e;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;ForUmMon
+74d5ca9d-bc79-4c10-9788-dc7323999f41;Vögel;Phänologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+77c32581-cd66-40d1-9c53-e46db66441d4;Regenwürmer;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;BDF
+7852aeaf-3996-497b-a2db-ac185d941b44;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BDF
+79ec11c2-ee6e-4910-abb8-4d83c128381e;Andere Wirbellose;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+7b155d93-6522-43b3-93f3-2f6ec883155b;Gefäßpflanzen und Farne;Artvorkommen;Habitate;marin;Habitate;marin;TMAP
+7b7af96a-f65a-49b6-920b-815208d9b49e;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+7de11d6b-8b89-4647-a842-d567e0144336;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+81af308b-a8be-433d-83f5-a5663b6ac789;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NaBioWald
+850aa3ba-da7a-4a2d-860a-9d0dc183e906;Vögel;Abundanz der Gemeinschaft;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+850aa3ba-da7a-4a2d-860a-9d0dc183e906;Vögel;Abundanz der Gemeinschaft;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+850aa3ba-da7a-4a2d-860a-9d0dc183e906;Vögel;Abundanz der Gemeinschaft;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+865dd6f2-7664-4cc4-b239-d9fc97273848;Säugetiere;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;SCALP
+88d290a1-7466-4e93-84bb-8de057cde221;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BDF
+88d290a1-7466-4e93-84bb-8de057cde221;Moose und Flechten;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BDF
+89493266-16b5-41b2-b2db-8a730e315c54;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;TMAP
+899eaa3a-b8ba-47de-bbd4-0a154b53a88d;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;TMAP
+8b0c08ef-c5a1-4e34-a04e-576942562a44;Mikroorganismen;Abundanz der Gemeinschaft;Keiner;edaphisch;Keiner;edaphisch;BDF
+8e1cfb5a-06a8-453c-a839-e3b97fb6ddd6;Regenwürmer;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;BDF
+8e1cfb5a-06a8-453c-a839-e3b97fb6ddd6;Andere Wirbellose;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;BDF
+8f6bf7e1-a0ec-4529-9432-65cb2128d6d1;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+90caef7e-320d-404f-82ff-2bd19ac830c6;Vögel;Morphologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+90caef7e-320d-404f-82ff-2bd19ac830c6;Vögel;Morphologie;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+90caef7e-320d-404f-82ff-2bd19ac830c6;Vögel;Morphologie;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+9129cc95-d4e8-4c59-80d3-8ae80b0d29f4;Schmetterlinge;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+9129cc95-d4e8-4c59-80d3-8ae80b0d29f4;Schmetterlinge;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+9129cc95-d4e8-4c59-80d3-8ae80b0d29f4;Gefäßpflanzen und Farne;Abundanz der Gemeinschaft;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+9129cc95-d4e8-4c59-80d3-8ae80b0d29f4;Gefäßpflanzen und Farne;Abundanz der Gemeinschaft;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+95f2087f-5e8b-4ae6-b8b0-063a7170ec41;Regenwürmer;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;BDF
+963dd99b-ccaa-40e3-bd0b-e2f2ac9cb0c6;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;ForUmMon
+9752b5ae-ad60-47d8-88ec-24abfea03436;Gefäßpflanzen und Farne;Artvorkommen;Habitate;marin;Habitate;marin;TMAP
+9892e92b-96d0-4593-b566-c8ca7b30f197;Libellen;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;FFH
+9892e92b-96d0-4593-b566-c8ca7b30f197;Libellen;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;FFH
+9892e92b-96d0-4593-b566-c8ca7b30f197;Gefäßpflanzen und Farne;Abundanz der Gemeinschaft;Artengruppen;limnisch;Artengruppen;limnisch;FFH
+9892e92b-96d0-4593-b566-c8ca7b30f197;Gefäßpflanzen und Farne;Abundanz der Gemeinschaft;Artengruppen;terrestrisch;Artengruppen;terrestrisch;FFH
+9892e92b-96d0-4593-b566-c8ca7b30f197;Fische;Artenhäufigkeiten;Artengruppen;limnisch;Artengruppen;limnisch;FFH
+9892e92b-96d0-4593-b566-c8ca7b30f197;Fische;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;FFH
+99d611ee-4ec1-46d4-bb4e-a840f861fbe8;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+99d611ee-4ec1-46d4-bb4e-a840f861fbe8;Algen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+99d611ee-4ec1-46d4-bb4e-a840f861fbe8;Mikroorganismen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+99d611ee-4ec1-46d4-bb4e-a840f861fbe8;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+99d611ee-4ec1-46d4-bb4e-a840f861fbe8;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+99d611ee-4ec1-46d4-bb4e-a840f861fbe8;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+99d611ee-4ec1-46d4-bb4e-a840f861fbe8;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+9a09b6d5-a408-44b1-872e-2430b3c70f2a;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+9a1551d5-9b01-4466-8c9e-b3bb0155ece3;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+9a3362d3-115d-46d4-8489-a5874acdcd1e;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+9a3362d3-115d-46d4-8489-a5874acdcd1e;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+9c3f9cbe-4350-480b-95cd-e2eb16e0df7c;Schmetterlinge;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonNNE
+9c846459-b069-44b7-b719-359770f26590;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;TMAP
+9c846459-b069-44b7-b719-359770f26590;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;TMAP
+9d208923-1ab9-4f61-a857-4624e7ed9eab;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+9d920114-a2aa-4088-ac32-2cd005aaab58;Schmetterlinge;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;InsektMon
+9f7d5766-1db1-46ab-be0d-074919e71f71;Algen;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+a0353c62-874d-4479-a0f6-4b9f28ba9197;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+a0353c62-874d-4479-a0f6-4b9f28ba9197;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+a1da458d-ea7d-415d-bc90-6976c72c6252;Gefäßpflanzen und Farne;Abundanz der Gemeinschaft;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;HNV
+a4ee685f-b75d-47c7-a087-4ca6e603a8fd;Vögel;Morphologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MEROS
+a7986c63-7312-400c-b53e-4853bb0aae03;Gefäßpflanzen und Farne;Abundanz der Gemeinschaft;Keiner;edaphisch;Keiner;edaphisch;ForUmMon
+a7986c63-7312-400c-b53e-4853bb0aae03;Gefäßpflanzen und Farne;Abundanz der Gemeinschaft;Keiner;terrestrisch;Keiner;terrestrisch;ForUmMon
+a7986c63-7312-400c-b53e-4853bb0aae03;Moose und Flechten;taxonomische/phylogenetische Vielfalt;Keiner;edaphisch;Keiner;edaphisch;ForUmMon
+a7986c63-7312-400c-b53e-4853bb0aae03;Moose und Flechten;taxonomische/phylogenetische Vielfalt;Keiner;terrestrisch;Keiner;terrestrisch;ForUmMon
+a864b182-4295-4c1b-9fb8-afd0ededd8d9;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;WILD
+a893e564-0b5f-429c-a112-d0fbae26f292;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+a893e564-0b5f-429c-a112-d0fbae26f292;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+a91adacf-d8b0-4370-be89-f86047be31cb;Säugetiere;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;SCALP
+a95adc45-9209-46b6-ac2a-e3c0d21bbb55;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;ForUmMon
+a95adc45-9209-46b6-ac2a-e3c0d21bbb55;Moose und Flechten;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;ForUmMon
+a95adc45-9209-46b6-ac2a-e3c0d21bbb55;Andere;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;ForUmMon
+a9bd5fa7-ca71-43f1-83fb-ed6e9545f35a;Andere Wirbellose;Andere;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+a9c9352c-2958-482f-801e-1f985d127691;Andere Wirbellose;Interaktionsvielfalt;Keiner;terrestrisch;Keiner;terrestrisch;MonViA
+a9d17447-8f28-4f60-93aa-38bb2206a286;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+a9d17447-8f28-4f60-93aa-38bb2206a286;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+aa24a453-eab6-4e0d-9ef9-6bb78caa09c0;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;WRRL
+aa24a453-eab6-4e0d-9ef9-6bb78caa09c0;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+aa699033-8e24-4f74-82a1-472870fbaa3c;Regenwürmer;Artvorkommen;Keiner;edaphisch;Keiner;edaphisch;BDF
+aa699033-8e24-4f74-82a1-472870fbaa3c;Mikroorganismen;Abundanz der Gemeinschaft;Keiner;edaphisch;Keiner;edaphisch;BDF
+aa82115d-1b23-4882-9bfc-e2dca9b12d93;Vögel;Physiologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+aa82115d-1b23-4882-9bfc-e2dca9b12d93;Vögel;Physiologie;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+aa82115d-1b23-4882-9bfc-e2dca9b12d93;Vögel;Physiologie;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+acae6f73-149f-4e13-83fc-8888ffb4eebd;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+ad7f7043-7d12-4fd9-b314-65306c86accf;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+ad9b905e-4f96-4991-a878-65b0150effc2;Gefäßpflanzen und Farne;Physiologie;Keiner;terrestrisch;Keiner;terrestrisch;BDF
+b070fed8-9742-4eb9-85fc-31dd1927229a;Mikroorganismen;Abundanz der Gemeinschaft;Keiner;edaphisch;Keiner;edaphisch;BDF
+b21651cf-e205-4936-8e17-a8ee6ca0745b;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;TMAP
+b25831f3-286f-4276-9c4e-54cc00a1e30d;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+b3614210-69ff-4d85-b3eb-3283e42a345a;Säugetiere;genetische Differenzierung;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Wildkatze
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Libellen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Käfer;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Schmetterlinge;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Algen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Mikroorganismen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b38614d4-bfcf-4c06-9cd8-bcf928ac7c27;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+b4f4fb0f-bd37-4b71-b6b1-754cc3bafb27;Schmetterlinge;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;TMD
+b5a52e57-9ee6-4865-ab6a-df2168ccde20;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+b5a52e57-9ee6-4865-ab6a-df2168ccde20;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+b5a52e57-9ee6-4865-ab6a-df2168ccde20;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+b6859ef7-5053-41fd-8dae-0405ab2b133f;Säugetiere;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;SCALP
+b73ccade-ce2f-4f32-b15c-baf1ec9d5e3a;Gefäßpflanzen und Farne;genetische Vielfalt (Reichtum und Heterozygosität);Artengruppen;terrestrisch;Artengruppen;terrestrisch;GenMon
+b8a4aa0d-4d7c-4054-b8dd-a43ee23589e4;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+b8a4aa0d-4d7c-4054-b8dd-a43ee23589e4;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+b8a4aa0d-4d7c-4054-b8dd-a43ee23589e4;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+bb97d5f9-aec8-44fd-a298-86dcfc544fb0;Regenwürmer;Artenhäufigkeiten;Artengruppen;edaphisch;Artengruppen;edaphisch;MonViA
+bbd20242-a595-403b-8e71-f93eaea81ffe;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+bbd20242-a595-403b-8e71-f93eaea81ffe;Mollusken;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+bbd20242-a595-403b-8e71-f93eaea81ffe;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+bbd20242-a595-403b-8e71-f93eaea81ffe;Fische;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+bc4c5535-b6dd-4cff-a0c1-d72263cebdbb;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+be2ff42f-2592-4496-9de7-3d9be6ebcc05;Vögel;Morphologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;IMS
+be303895-3ad0-45f1-8fc3-ea660c95e4ee;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+be303895-3ad0-45f1-8fc3-ea660c95e4ee;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+bfc06d29-5412-46f8-aa84-77a53d5c3679;Säugetiere;genetische Vielfalt (Reichtum und Heterozygosität);Artengruppen;terrestrisch;Artengruppen;terrestrisch;SCALP
+c04d4989-89d7-4abc-9e7c-ba6f79950d48;Säugetiere;Phänologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;SCALP
+c0b49072-58ad-470c-907f-397f8cc57ee4;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;TMAP
+c0b49072-58ad-470c-907f-397f8cc57ee4;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;TMAP
+c0e0c56a-a194-4867-b2c8-3857e3e22d6f;Mikroorganismen;Abundanz der Gemeinschaft;Keiner;edaphisch;Keiner;edaphisch;BDF
+c4cbf1ef-f377-456a-a753-1b274da8acef;Regenwürmer;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;BDF
+c4cbf1ef-f377-456a-a753-1b274da8acef;Andere Wirbellose;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;BDF
+c658a937-4742-4cb9-8525-960e735f370c;Käfer;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;InsektMon
+c658a937-4742-4cb9-8525-960e735f370c;Spinnen;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;InsektMon
+c88c6b9d-1d62-471f-bdff-387f01c548a9;Libellen;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;FFH
+c88c6b9d-1d62-471f-bdff-387f01c548a9;Libellen;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;FFH
+c88c6b9d-1d62-471f-bdff-387f01c548a9;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;FFH
+c88c6b9d-1d62-471f-bdff-387f01c548a9;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;FFH
+c88c6b9d-1d62-471f-bdff-387f01c548a9;Fische;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;FFH
+c88c6b9d-1d62-471f-bdff-387f01c548a9;Fische;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;FFH
+c923b8dd-000e-4726-a8f2-819916c924d1;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+c923b8dd-000e-4726-a8f2-819916c924d1;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+c923b8dd-000e-4726-a8f2-819916c924d1;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+c94f4eca-0bf5-49a9-a661-9a96cdf95983;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+c94f4eca-0bf5-49a9-a661-9a96cdf95983;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+c94f4eca-0bf5-49a9-a661-9a96cdf95983;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+c94f4eca-0bf5-49a9-a661-9a96cdf95983;Vögel;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;Vogelmonitoring
+ca4bbe35-99c4-44d5-a0a7-9031d568a490;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+ca4bbe35-99c4-44d5-a0a7-9031d568a490;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+ca4bbe35-99c4-44d5-a0a7-9031d568a490;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+ce72f0af-e811-41a6-a9b3-ca0fcb9fb7bd;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+ce72f0af-e811-41a6-a9b3-ca0fcb9fb7bd;Mollusken;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+ce72f0af-e811-41a6-a9b3-ca0fcb9fb7bd;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+ce72f0af-e811-41a6-a9b3-ca0fcb9fb7bd;Fische;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+ce89d9e6-d3f7-4052-8507-a2d8828eb97f;Käfer;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+ce89d9e6-d3f7-4052-8507-a2d8828eb97f;Andere Wirbellose;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+ceb417d3-8955-4e7f-b1ab-4cb50e4df006;Säugetiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+cfb2cca3-ecc3-4bae-9ae0-ca26444237ec;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;TMAP
+d0be72c8-9d6b-4b1b-86fd-ebaee10a651d;Säugetiere;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+d1f24ead-ed9e-42ef-b9de-4a823143f0ca;Algen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;TMAP
+d1f24ead-ed9e-42ef-b9de-4a823143f0ca;Mikroorganismen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;TMAP
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Vögel;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;NPBsR
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Säugetiere;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;NPBsR
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Moose und Flechten;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;NPBsR
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;NPBsR
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Amphibien/Reptilien;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;NPBsR
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Schmetterlinge;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;NPBsR
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Fische;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;NPBsR
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Käfer;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;NPBsR
+d5090bca-c42e-440d-b4a6-8adf0e04fa2e;Andere;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;NPBsR
+d6d866e5-97a0-457d-af79-062376994a71;Gefäßpflanzen und Farne;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;ForUmMon
+d7eaaa11-a64d-4d5e-8fdd-c9aced361ddb;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;TMAP
+d7eaaa11-a64d-4d5e-8fdd-c9aced361ddb;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;TMAP
+d983b01c-9fea-4817-b4b2-7e3e9d911d38;Mikroorganismen;taxonomische/phylogenetische Vielfalt;Artengruppen;marin;Artengruppen;marin;BLMP
+dc738cd2-fdd3-4733-9840-08bf887de04d;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;TMAP
+dcb186a6-c41f-47eb-aca8-0c655f3a1fb6;Heuschrecken;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;InsektMon
+dcb186a6-c41f-47eb-aca8-0c655f3a1fb6;Gefäßpflanzen und Farne;Phänologie;Artengruppen;terrestrisch;Artengruppen;terrestrisch;InsektMon
+dcb186a6-c41f-47eb-aca8-0c655f3a1fb6;Moose und Flechten;Abundanz der Gemeinschaft;Artengruppen;terrestrisch;Artengruppen;terrestrisch;InsektMon
+ddae618b-f9b5-49ac-a074-4ae99b20d29b;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;BLMP
+de1e9a86-c765-4d6b-a14a-b6d1076aec47;Andere Wirbellose;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+de6c5383-04ec-43ef-a8ab-249b3df3bc40;Käfer;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+de6c5383-04ec-43ef-a8ab-249b3df3bc40;Gefäßpflanzen und Farne;Abundanz der Gemeinschaft;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e1078e88-8727-4d1b-b67e-2c068c6da757;Regenwürmer;Artenhäufigkeiten;Artengruppen;edaphisch;Artengruppen;edaphisch;MonViA
+e1078e88-8727-4d1b-b67e-2c068c6da757;Mikroorganismen;genetische Differenzierung;Artengruppen;edaphisch;Artengruppen;edaphisch;MonViA
+e17330bd-5927-473c-9fe5-65df21809e49;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+e56cba82-bfce-4851-a5db-1f87fb969ded;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Libellen;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Libellen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Libellen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Fische;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Algen;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Algen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Algen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Säugetiere;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Säugetiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Säugetiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Vögel;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Vögel;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Vögel;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Mollusken;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Krebstiere;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e56cba82-bfce-4851-a5db-1f87fb969ded;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;FFH
+e621da0a-0ccc-42ce-a981-1323796aae3b;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e66fb6f7-91c8-49a2-a732-96f4e5ee47e6;Andere Wirbellose;genetische Vielfalt (Reichtum und Heterozygosität);Artengruppen;terrestrisch;Artengruppen;terrestrisch;MonViA
+e7ef09d8-c5df-4d9c-9737-69ce2e81c3e1;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+e7ef09d8-c5df-4d9c-9737-69ce2e81c3e1;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Mikroorganismen;Phänologie;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Moose und Flechten;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Libellen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Käfer;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Schmetterlinge;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Mollusken;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e8edaa6d-eed7-40ad-8ff7-82b731f8e0c8;Algen;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;WRRL
+e9895c93-aa62-4281-a662-56ae909ee793;Regenwürmer;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;BDF
+ea3e5bf3-7221-48f2-8b6a-b9e08f41da68;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+ea3e5bf3-7221-48f2-8b6a-b9e08f41da68;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+ea3e5bf3-7221-48f2-8b6a-b9e08f41da68;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+ea503c07-4cd4-4266-8110-117dad7ff30c;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+ea503c07-4cd4-4266-8110-117dad7ff30c;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+ea503c07-4cd4-4266-8110-117dad7ff30c;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+ed2e3359-d7d1-4533-b4ee-8f24b806495f;Gefäßpflanzen und Farne;Artenhäufigkeiten;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;BWI
+ed44c5de-2eeb-4c63-bce2-6ecb51e99fb3;Säugetiere;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Fledermauszug
+efa040e0-12b7-4684-9e5e-f29eb8f2d87a;Säugetiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+efa040e0-12b7-4684-9e5e-f29eb8f2d87a;Säugetiere;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+f0815a80-6323-42df-a488-a50844cb38bd;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+f0815a80-6323-42df-a488-a50844cb38bd;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+f0815a80-6323-42df-a488-a50844cb38bd;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+f316ae21-b5e2-4c95-b94a-ff68f8894a6b;Säugetiere;genetische Vielfalt (Reichtum und Heterozygosität);Artengruppen;terrestrisch;Artengruppen;terrestrisch;SCALP
+f6e705ac-1f0e-4c2c-8c12-6ac9d43ff064;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+f6e705ac-1f0e-4c2c-8c12-6ac9d43ff064;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+f6e705ac-1f0e-4c2c-8c12-6ac9d43ff064;Vögel;Artvorkommen;Artengruppen;edaphisch;Artengruppen;edaphisch;Vogelmonitoring
+f8509f6a-a28c-4657-947e-874ac2aa9c13;Gefäßpflanzen und Farne;Andere;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;NPBsR
+f9c20a73-79bb-455a-a469-087cebaa869b;Säugetiere;Artenhäufigkeiten;Artengruppen;terrestrisch;Artengruppen;terrestrisch;SCALP
+fa3763cc-187b-4836-95d2-fad9525fe843;Amphibien/Reptilien;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+fa3763cc-187b-4836-95d2-fad9525fe843;Amphibien/Reptilien;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+fa3763cc-187b-4836-95d2-fad9525fe843;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;FFH
+fa3763cc-187b-4836-95d2-fad9525fe843;Gefäßpflanzen und Farne;Artvorkommen;Habitate & Artengruppen;terrestrisch;Habitate & Artengruppen;terrestrisch;FFH
+fc3070b2-e461-4b79-b3e4-e2e2e3c473ac;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+fc3070b2-e461-4b79-b3e4-e2e2e3c473ac;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+fc3070b2-e461-4b79-b3e4-e2e2e3c473ac;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+feebbc28-2342-47e4-a366-354de2f98fb5;Regenwürmer;Artenhäufigkeiten;Artengruppen;edaphisch;Artengruppen;edaphisch;BDF
+fff930c3-2a5d-4bf7-b773-30b06abae9d9;Vögel;Artvorkommen;Artengruppen;terrestrisch;Artengruppen;terrestrisch;Vogelmonitoring
+fff930c3-2a5d-4bf7-b773-30b06abae9d9;Vögel;Artvorkommen;Artengruppen;marin;Artengruppen;marin;Vogelmonitoring
+fff930c3-2a5d-4bf7-b773-30b06abae9d9;Vögel;Artvorkommen;Artengruppen;limnisch;Artengruppen;limnisch;Vogelmonitoring
+51cacf49-5c83-4a87-8bc9-eecf0e14585a;Fische;Artenhäufigkeiten;Artengruppen;marin;Artengruppen;marin;BLMP
+51cacf49-5c83-4a87-8bc9-eecf0e14585a;Krebstiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+51cacf49-5c83-4a87-8bc9-eecf0e14585a;Andere Wirbellose;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+0c95b3fa-1c29-429c-8d81-47ceff172ba2;Fische;Artenhäufigkeiten;Artengruppen;marin;Artengruppen;marin;BLMP
+0c95b3fa-1c29-429c-8d81-47ceff172ba2;Krebstiere;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+d4a53599-701e-45e7-ad6b-977c5742415b;Fische;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+2dc436d6-5679-421e-84db-2ec40b115f55;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+2dc436d6-5679-421e-84db-2ec40b115f55;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+2dc436d6-5679-421e-84db-2ec40b115f55;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+b0921dba-9b3c-4651-82de-c547c3c0b326;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+b0921dba-9b3c-4651-82de-c547c3c0b326;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+b0921dba-9b3c-4651-82de-c547c3c0b326;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+e848e716-4a15-4c61-a758-8b0158b9b570;Algen;Artenhäufigkeiten;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+e848e716-4a15-4c61-a758-8b0158b9b570;Gefäßpflanzen und Farne;Artenhäufigkeiten;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+107ccb55-5a2f-457c-b039-ce8a559b938f;Algen;Artenhäufigkeiten;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+107ccb55-5a2f-457c-b039-ce8a559b938f;Gefäßpflanzen und Farne;Artenhäufigkeiten;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+279c31bf-3055-4106-b7e4-0aaa290a79a5;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+279c31bf-3055-4106-b7e4-0aaa290a79a5;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+279c31bf-3055-4106-b7e4-0aaa290a79a5;Andere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+279c31bf-3055-4106-b7e4-0aaa290a79a5;Andere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+279c31bf-3055-4106-b7e4-0aaa290a79a5;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+279c31bf-3055-4106-b7e4-0aaa290a79a5;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+14db0e88-1cb6-4a34-be51-65e6fa193cf8;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+14db0e88-1cb6-4a34-be51-65e6fa193cf8;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+14db0e88-1cb6-4a34-be51-65e6fa193cf8;Andere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+14db0e88-1cb6-4a34-be51-65e6fa193cf8;Andere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+14db0e88-1cb6-4a34-be51-65e6fa193cf8;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+14db0e88-1cb6-4a34-be51-65e6fa193cf8;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+0315feb3-ce27-4dcb-8a57-067cf5bc8661;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+0315feb3-ce27-4dcb-8a57-067cf5bc8661;Andere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+abb75964-cd58-4970-83c7-724acf26ea01;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+abb75964-cd58-4970-83c7-724acf26ea01;Fische;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+abb75964-cd58-4970-83c7-724acf26ea01;Andere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+abb75964-cd58-4970-83c7-724acf26ea01;Andere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+abb75964-cd58-4970-83c7-724acf26ea01;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+abb75964-cd58-4970-83c7-724acf26ea01;Krebstiere;Artvorkommen;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+55ff600c-8dcf-4084-9251-0eab76082f33;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+55ff600c-8dcf-4084-9251-0eab76082f33;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+55ff600c-8dcf-4084-9251-0eab76082f33;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+55ff600c-8dcf-4084-9251-0eab76082f33;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+334cc03b-692b-49bc-be15-f3c2d04dea4a;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+a07121ef-f5f4-4ed0-9a73-202a76b4d5aa;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+a07121ef-f5f4-4ed0-9a73-202a76b4d5aa;Andere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+d1614c5e-3fcf-4164-a29a-1baf7f2f56c6;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+d1614c5e-3fcf-4164-a29a-1baf7f2f56c6;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+b151a5eb-12ca-40c2-8d27-0899c0243dbe;Algen;Artenhäufigkeiten;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+b151a5eb-12ca-40c2-8d27-0899c0243dbe;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+b151a5eb-12ca-40c2-8d27-0899c0243dbe;Andere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+b151a5eb-12ca-40c2-8d27-0899c0243dbe;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+b151a5eb-12ca-40c2-8d27-0899c0243dbe;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+80a73edb-206e-4070-a2da-c1ef20c62dc5;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+80a73edb-206e-4070-a2da-c1ef20c62dc5;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+80a73edb-206e-4070-a2da-c1ef20c62dc5;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+80a73edb-206e-4070-a2da-c1ef20c62dc5;Algen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+80a73edb-206e-4070-a2da-c1ef20c62dc5;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+02ccf273-5911-484c-bf32-cadc4cdb5902;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+02ccf273-5911-484c-bf32-cadc4cdb5902;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+02ccf273-5911-484c-bf32-cadc4cdb5902;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+02ccf273-5911-484c-bf32-cadc4cdb5902;Algen;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+02ccf273-5911-484c-bf32-cadc4cdb5902;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+1e496af5-d530-41a8-96a7-783ebec83320;Algen;Artenhäufigkeiten;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+1e496af5-d530-41a8-96a7-783ebec83320;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+1e496af5-d530-41a8-96a7-783ebec83320;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+1e496af5-d530-41a8-96a7-783ebec83320;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+1e496af5-d530-41a8-96a7-783ebec83320;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+65a396a9-4b86-4314-a03d-5154f98ae1b7;Algen;Artenhäufigkeiten;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+65a396a9-4b86-4314-a03d-5154f98ae1b7;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+65a396a9-4b86-4314-a03d-5154f98ae1b7;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+65a396a9-4b86-4314-a03d-5154f98ae1b7;Fische;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+65a396a9-4b86-4314-a03d-5154f98ae1b7;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+f84152e9-54ee-4dfe-89c6-c384a35e9890;Algen;Phänologie;Keiner;marin;Keiner;marin;BLMP
+a834a70f-0ad6-45aa-9665-df9e2517db28;Algen;Phänologie;Keiner;marin;Keiner;marin;BLMP
+afe7371f-1005-417d-bf99-17f8e7c81458;Algen;Phänologie;Artengruppen;marin;Artengruppen;marin;BLMP
+afe7371f-1005-417d-bf99-17f8e7c81458;Mikroorganismen;Phänologie;Artengruppen;marin;Artengruppen;marin;BLMP
+c9501834-40b9-4313-ac28-307ca4a823f4;Algen;Phänologie;Artengruppen;marin;Artengruppen;marin;BLMP
+c9501834-40b9-4313-ac28-307ca4a823f4;Mikroorganismen;Phänologie;Artengruppen;marin;Artengruppen;marin;BLMP
+d4146a6d-f171-4e84-9d22-b6de16fd7aac;Algen;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+365b4f31-b1f0-4a4c-97ae-486985ada15e;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+365b4f31-b1f0-4a4c-97ae-486985ada15e;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+365b4f31-b1f0-4a4c-97ae-486985ada15e;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+02723c41-1f60-4355-af25-44bf3c08ed93;Mollusken;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+02723c41-1f60-4355-af25-44bf3c08ed93;Andere Wirbellose;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+02723c41-1f60-4355-af25-44bf3c08ed93;Krebstiere;Artvorkommen;Habitate & Artengruppen;marin;Habitate & Artengruppen;marin;BLMP
+83a0ff46-30cd-44f9-b323-a72c69647b9f;Fische;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+121175d1-82bb-46f8-8056-160440babf07;Fische;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+667d3223-be08-4a04-9747-ec11f22dcc87;Fische;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+bf854d78-a629-4ff5-ac4c-c29b06b28bf4;Fische;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+971cc561-cc99-405c-83aa-c7ff5c499ba3;Fische;Artenhäufigkeiten;Habitate & Artengruppen;limnisch;Habitate & Artengruppen;limnisch;BLMP
+31509a87-722e-4fb6-93e2-eb665068a2c5;Fische;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+a13ca263-b812-4127-8a4b-6016142875a8;Fische;Artvorkommen;Artengruppen;marin;Artengruppen;marin;BLMP
+956de785-2545-49fa-9e2c-d5096ded4f23;Fische;Artenhäufigkeiten;Artengruppen;marin;Artengruppen;marin;BLMP
+956de785-2545-49fa-9e2c-d5096ded4f23;Andere Wirbellose;Artenhäufigkeiten;Artengruppen;marin;Artengruppen;marin;BLMP

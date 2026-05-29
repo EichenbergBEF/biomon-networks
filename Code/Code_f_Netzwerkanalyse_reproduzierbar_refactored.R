@@ -32,57 +32,101 @@
 # 0. Setup
 # ============================================================================== 
 
-required_packages <- c(
-  "tidyverse", "igraph", "ggraph", "tidygraph", "ggforce", "ggnewscale",
-  "patchwork", "cowplot", "networkD3", "openxlsx", "randomForest", "scales",
-  "grid", "plotly", "svglite"
+.required_packages <- c(
+  "tidyverse", "igraph", "ggraph", "tidygraph", "ggforce",
+  "ggnewscale", "patchwork", "cowplot", "networkD3",
+  "openxlsx", "randomForest", "scales", "plotly",
+  "svglite", "here", "gtools"
 )
 
-invisible(lapply(required_packages, function(pkg) {
-  if (!requireNamespace(pkg, quietly = TRUE)) {
-    stop("Package not installed: ", pkg, call. = FALSE)
-  }
-  suppressPackageStartupMessages(library(pkg, character.only = TRUE))
-}))
+missing_packages <- .required_packages[
+  !sapply(.required_packages, requireNamespace, quietly = TRUE)
+]
+
+if (length(missing_packages) > 0) {
+  stop(
+    paste(
+      "Missing packages:",
+      paste(missing_packages, collapse = ", ")
+    ),
+    call. = FALSE
+  )
+}
+
+invisible(
+  lapply(
+    .required_packages,
+    library,
+    character.only = TRUE
+  )
+)
 
 # Pfade bei Bedarf anpassen -----------------------------------------------------
-helper_file <- "Helper_functions_netzwerkanalyse.R"
-output_dir  <- "outputs/netzwerkanalyse"
+.helper_file <- "Helper_functions_netzwerkanalyse.R"
+.output_dir  <- "output"
+.figure_dir <- "figures"
 
-dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
+dir.create(.output_dir, recursive = TRUE, showWarnings = FALSE)
+dir.create(.figure_dir, recursive = TRUE, showWarnings = FALSE)
 
-source(helper_file)
+source(here("code",.helper_file))
 
 # Reproduzierbarkeit der Layouts und Stichproben
 set.seed(123)
 
-# Prüfen, ob die zentralen Eingabeobjekte vorhanden sind ------------------------
-required_objects <- c(
-  "Akteure", "alleModule", "Kopfdaten", "BiolFokus", "ArtengrDat", "HabitateDat"
-)
-
-missing_objects <- required_objects[!vapply(required_objects, exists, logical(1))]
-if (length(missing_objects) > 0) {
-  stop(
-    "Folgende Eingabeobjekte fehlen im Workspace: ",
-    paste(missing_objects, collapse = ", "),
-    call. = FALSE
-  )
-}
 
 # ==============================================================================
 # 1. Daten vorbereiten
 # ============================================================================== 
 
+# Die für die vorliegende Analyse notwendigen Daten können aus der frei 
+# verfügbaren Datenbank zur Bestandserhebung des Nationalen Monitoringzentrums
+# gezogen werden. Diese ist als Access oder SQL Datenbank verfügbar unter
+# https://zenodo-rdm.web.cern.ch/records/17989093/files/NMZB_Monitoringprogramme_DB_SQlite_v1.0_2026-01.sqlite?download=1
+# Welche Tabellen die notwendigen Daten enthalten kann der dazugehörigen Handreichung entnommen werden
+# https://doi.org/10.5281/zenodo.17988433
+# Anhand dieser Informationen können die für diese Analyse verwendeten Daten reproduziert werden
+
+# Zur einfacheren Handhabung werden bereits die auf Basis dieser Datenbank erzeugten 
+# und aufbereiteten Daten auf dem Git Repository bereitgestellt und können direkt 
+# genutzt werden. 
+
+Akteure<- read.csv(here("data","Akteure.csv"), sep=";")
+alleModule<- read.csv(here("data","alleModule.csv"), sep=";")
+Kopfdaten<- read.csv(here("data","Kopfdaten.csv"), sep=";")
+BiolFokus<- read.csv(here("data","BiolFokus.csv"), sep=";")
+HabitateDat<- read.csv(here("data","HabitateDat.csv"), sep=";")
+ArtengrDat<- read.csv(here("data","ArtengrDat.csv"), sep=";")
+
+
+# ==============================================================================
+# Die Daten nun entsprechend in das benötigte Format bringen 
+# ==============================================================================
+
+# Prüfen, ob die zentralen Eingabeobjekte vorhanden sind ------------------------
+.required_objects <- c(
+  "Akteure", "alleModule", "Kopfdaten", "BiolFokus", "ArtengrDat", "HabitateDat"
+)
+
+.missing_objects <- .required_objects[!vapply(.required_objects, exists, logical(1))]
+if (length(.missing_objects) > 0) {
+  stop(
+    "Folgende Eingabeobjekte fehlen im Workspace: ",
+    paste(.missing_objects, collapse = ", "),
+    call. = FALSE
+  )
+}
+
+
 # Es werden nur Module berücksichtigt, die auch in der Flowchart-Auswahl enthalten
 # sind. Jede Zeile beschreibt hier: Organisation X ist an Modul Y beteiligt.
 network <- Akteure |>
-  dplyr::filter(fk_modul_id %in% alleModule) |>
+  dplyr::filter(fk_modul_id %in% alleModule$x) |>
   dplyr::select(Project = fk_modul_id, Org = Akteur) |>
   dplyr::distinct(Project, Org, .keep_all = TRUE)
 
 # Kurzer Überblick über berücksichtigte Programme/Module.
-selected_programmes <- unique(Kopfdaten$Progrshort[Kopfdaten$modul_id %in% alleModule])
+selected_programmes <- unique(Kopfdaten$Progrshort[Kopfdaten$modul_id %in% alleModule$x])
 print(selected_programmes)
 
 # ---------------------------------------------------------------------------- 
@@ -130,26 +174,26 @@ Akteure_Uebersicht <- data.frame(
 # Änderungen in der Reihenfolge von unique(network$Org). Für langfristige
 # Reproduzierbarkeit wäre eine externe Mapping-Tabelle vorzuziehen.
 akteur_kategorien <- c(
-  "Bund","Bund","Wissenschaft","Länder","Bund",NA,NA,"Fachverbände",NA,
-  "Wissenschaft","Wissenschaft","Länder","Wissenschaft","Länder",
-  "Fachverbände","Wissenschaft","Fachverbände","Wissenschaft",
-  "Fachverbände","Fachverbände","Länder","Fachverbände","Wissenschaft",
-  "Länder","Länder","Länder","Länder","Länder","Länder","Länder",
-  "Bund","Bund","Wissenschaft",NA,"Länder","Bund","Wissenschaft",
-  "Länder","Wissenschaft","Länder","Länder","Fachverbände","Länder",
-  "Fachverbände","Fachverbände","Länder","Länder","Länder",
-  "Wissenschaft","Wissenschaft","Wissenschaft","Länder","Bund",
-  "Fachverbände","Länder","Fachverbände","Wissenschaft","Länder",
-  "Wissenschaft","Fachverbände","Länder","Länder","Länder","Länder",
-  "Länder","Länder","Länder","Fachverbände","Länder","Wissenschaft",
-  "Fachverbände","Fachverbände","Wissenschaft","Fachverbände",
-  "Fachverbände","Fachverbände","Fachverbände","Fachverbände",
-  "Länder","Länder","Länder","Fachverbände","Länder","Länder",
-  "Länder","Länder","Länder","Länder","Länder","Länder","Länder",
-  "Länder","Länder","Länder","Länder","Länder","Länder","Länder",
-  "Länder","Länder","Länder","Länder","Länder","Bund","Länder",
-  "Länder","Länder","Länder","Länder","Länder","Länder","Länder",
-  "Länder","Länder","Länder","Länder","Länder","Länder"
+  "Bund", "Bund", "Wissenschaft", "Länder", "Bund", NA, NA, "Fachverbände", 
+  NA, "Wissenschaft", "Wissenschaft", "Länder", "Wissenschaft", 
+  "Länder", "Fachverbände", "Wissenschaft", "Fachverbände", "Wissenschaft", 
+  "Fachverbände", "Fachverbände", "Länder", "Fachverbände", "Bund", 
+  "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", 
+  "Bund", "Bund", "Wissenschaft", "Wissenschaft", "Länder", "Bund", 
+  "Wissenschaft", "Länder", "Wissenschaft", "Länder", "Länder", 
+  "Fachverbände", "Länder", "Fachverbände", "Fachverbände", "Länder", 
+  "Länder", "Länder", "Wissenschaft", "Wissenschaft", "Wissenschaft", 
+  "Länder", "Bund", "Fachverbände", "Länder", "Fachverbände", "Wissenschaft", 
+  "Länder", "Wissenschaft", "Fachverbände", "Länder", "Länder", 
+  "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", "Fachverbände", 
+  "Länder", "Wissenschaft", "Fachverbände", "Fachverbände", "Wissenschaft", 
+  "Fachverbände", "Fachverbände", "Fachverbände", "Fachverbände", 
+  "Fachverbände", "Länder", "Länder", "Länder", "Fachverbände", 
+  "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", 
+  "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", 
+  "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", 
+  "Länder", "Bund", "Länder", "Länder", "Länder", "Länder", "Länder", 
+  "Länder", "Länder", "Länder", "Länder", "Länder", "Länder", "Länder"
 )
 
 if (length(akteur_kategorien) != nrow(Akteure_Uebersicht)) {
@@ -303,7 +347,7 @@ openxlsx::write.xlsx(
     variable_importance = cluster_importance_table,
     actors_by_cluster = cluster_actor_table
   ),
-  file = file.path(output_dir, "cluster_interpretation_global.xlsx"),
+  file = here(file.path(.output_dir, "cluster_interpretation_global.xlsx")),
   overwrite = TRUE
 )
 
@@ -392,7 +436,7 @@ openxlsx::write.xlsx(
     variable_importance = marine_subcluster_importance_table,
     actors_by_subcluster = marine_subcluster_actor_table
   ),
-  file = file.path(output_dir, "cluster_interpretation_marine_subclusters.xlsx"),
+  file = here(file.path(.output_dir, "cluster_interpretation_marine_subclusters.xlsx")),
   overwrite = TRUE
 )
 
@@ -481,39 +525,6 @@ layout_df <- ggraph::create_layout(
 # ergänzt statt das Layout in ein normales data.frame umzuwandeln.
 layout_df$cluster <- factor(layout_df$cluster_plot, levels = names(cluster_names))
 
-# Organisationen, die wegen der konvexen Hüllen optional nicht in die Hüllen
-# eingehen sollen. Die Punkte bleiben sichtbar, nur die Hulls ignorieren sie.
-outlier_orgs_for_hulls <- c(
-  "MEROS", "GCD", "ICES", "Senckenberg-Meer", "ITAW", "Uni-Trier",
-  "SBMS-HB", "LfL-BY", "Uni-Hamburg"
-)
-
-# Manuelle Koordinatenanpassungen für die finale Abbildung. Diese Änderungen sind
-# rein grafisch und verändern keine Netzwerkmetriken.
-manual_offsets <- dplyr::tribble(
-  ~name,               ~dx,  ~dy,
-  "SBMS-HB",          -4.5,  0,
-  "MEROS",            -2.2,  1.94,
-  "GCD",              -1.3,  1.5,
-  "ICES",              0,    1.94,
-  "Senckenberg-Meer",  0,    1.72,
-  "Uni-Trier",         0,    1.3,
-  "LfL-BY",            0.5, -0.3
-)
-
-layout_df_plot <- layout_df
-
-for (i in seq_len(nrow(manual_offsets))) {
-  idx <- layout_df_plot$name == manual_offsets$name[i]
-  layout_df_plot$x[idx] <- layout_df_plot$x[idx] + manual_offsets$dx[i]
-  layout_df_plot$y[idx] <- layout_df_plot$y[idx] + manual_offsets$dy[i]
-}
-
-# Hüllen auf Basis der finalen Plot-Koordinaten berechnen. Für die Hüllen reicht
-# ein normales data.frame; der eigentliche Netzwerkplot nutzt weiterhin das
-# layout_tbl_graph-Objekt layout_df_plot.
-hull_df_plot <- as.data.frame(layout_df_plot) |>
-  dplyr::filter(!is.na(cluster), !name %in% outlier_orgs_for_hulls)
 
 # Labels: pro Cluster die obersten 20 % nach Betweenness plus manuell ergänzte
 # Schlüsselorganisationen.
@@ -562,6 +573,107 @@ outlier_candidates <- as.data.frame(layout_df_plot) |>
   )
 
 print(outlier_candidates, n = 60)
+
+# Manuelle Koordinatenanpassungen für die finale Abbildung. Diese Änderungen sind
+# rein grafisch und verändern keine Netzwerkmetriken.
+# Hinweis: Diese veränderung beziehen sich auf Koordinaten, die je nach set.seed()
+# unterschiedlich sein können, auf Grund der stochastizität der verwendeten Space-filling
+# Algroithmen der Darstellung. Dieser Schritt hier dient lediglich der 
+# transparenten Dokumentation des hier angewendeten Vorgehens.
+# Um einen absolut identischen Plot zu bekommen, wie er z.B. im Gesamtkonzept des 
+# Monitoringzentrums Kap 1.1. zu erhalten siehe unten, unmittelbar vor dem 
+# Abspeichern des finalen Plots.
+
+##### Cluster 1
+layout_df_plot$x[
+  layout_df_plot$name == "SBMS-HB"
+] <- layout_df_plot$x[
+  layout_df_plot$name == "SBMS-HB"
+] - 4.5
+
+### Cluster 2
+
+layout_df_plot$x[
+  layout_df_plot$name == "MEROS"
+] <- layout_df_plot$x[
+  layout_df_plot$name == "MEROS"
+] - 2.2
+
+
+layout_df_plot$y[
+  layout_df_plot$name == "MEROS"
+] <- layout_df_plot$y[
+  layout_df_plot$name == "MEROS"
+] + 1.94
+
+layout_df_plot$x[
+  layout_df_plot$name == "GCD"
+] <- layout_df_plot$x[
+  layout_df_plot$name == "GCD"
+] - 1.3
+
+
+layout_df_plot$y[
+  layout_df_plot$name == "GCD"
+] <- layout_df_plot$y[
+  layout_df_plot$name == "GCD"
+] + 1.5
+
+layout_df_plot$y[
+  layout_df_plot$name == "ICES"
+] <- layout_df_plot$y[
+  layout_df_plot$name == "ICES"
+] + 1.94
+
+
+layout_df_plot$y[
+  layout_df_plot$name == "Senckenberg-Meer"
+] <- layout_df_plot$y[
+  layout_df_plot$name == "Senckenberg-Meer"
+] + 1.72
+
+layout_df_plot$y[
+  layout_df_plot$name == "Uni-Trier"
+] <- layout_df_plot$y[
+  layout_df_plot$name == "Uni-Trier"
+] + 1.3
+
+
+### Cluster 4:
+layout_df_plot$x[
+  layout_df_plot$name == "LfL-BY"
+] <- layout_df_plot$x[
+  layout_df_plot$name == "SBMS-HB"
+] + 0.5
+
+layout_df_plot$y[
+  layout_df_plot$name == "LfL-BY"
+] <- layout_df_plot$y[
+  layout_df_plot$name == "SBMS-HB"
+] - 0.3
+
+
+
+label_nodes <- as.data.frame(layout_df_plot) |>
+  dplyr::filter(!is.na(cluster)) |>
+  dplyr::group_by(cluster) |>
+  dplyr::arrange(dplyr::desc(betweenness), .by_group = TRUE) |>
+  dplyr::mutate(
+    rank = dplyr::row_number(),
+    n_cluster = dplyr::n(),
+    keep = rank <= ceiling(0.20 * n_cluster)
+  ) |>
+  dplyr::filter(keep) |>
+  dplyr::ungroup() |>
+  dplyr::pull(name)
+
+label_nodes <- unique(c(label_nodes, extra_label_nodes))
+
+layout_df_plot$label <- ifelse(
+  layout_df_plot$name %in% label_nodes,
+  layout_df_plot$name,
+  NA
+)
 
 # ==============================================================================
 # 10. Statischer Plot mit separater Clusterlegende
@@ -742,6 +854,10 @@ plotly_plot <- plotly::ggplotly(network_plot_static, tooltip = "text")
 # ==============================================================================
 # 12. Export
 # ============================================================================== 
+
+# Um exakt genau die Darstellung zu erhalten, die z.B. im Gesamtkonzept des 
+# Monitoringzentrums in Kap 1.1 zu erhalten, sollte folgendes Objekt eingelesen werden
+network_plot_static<- readRDS(here("output","network_plot_final.rds"))
 
 ggplot2::ggsave(
   filename = file.path(output_dir, "Netzwerkplot_Cluster.png"),
