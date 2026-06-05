@@ -276,6 +276,12 @@ p_leiden_global <- plot_leiden_diagnostics(
 
 print(p_leiden_global)
 
+# housekeeping: dieses Objekt ist sehr groß, wird aber nach der Beurteilung 
+# nicht mehr benötigt
+
+rm(p_leiden_global)
+
+
 membership_df <- global_leiden$membership_df
 
 # Clusterattribute an igraph hängen.
@@ -381,6 +387,12 @@ p_leiden_marine <- plot_leiden_diagnostics(
 )
 
 print(p_leiden_marine)
+
+# housekeeping: dieses Objekt ist sehr groß, wird aber nach der Beurteilung 
+# nicht mehr benötigt
+
+rm(p_leiden_marine)
+
 
 marine_membership_df <- marine_leiden$membership_df |>
   dplyr::rename(subcluster = cluster)
@@ -520,10 +532,30 @@ layout_df <- ggraph::create_layout(
   layout = "nicely"
 )
 
+# Erzeugen eines Dataframes, der für die Nutzung der Cluster zur Formung von 
+# konvexen Hüllen im Plot weiter unten genutzt werden kann
+
+hull_df <- as.data.frame(layout_df) |>
+  dplyr::filter(!is.na(cluster)) |>
+  dplyr::mutate(cluster = factor(cluster))
+
 # Die layout_tbl_graph-Klasse muss erhalten bleiben, damit ggraph() später noch
 # Kanten und Knoten korrekt kennt. Deshalb werden Plotattribute per Basiszugriff
 # ergänzt statt das Layout in ein normales data.frame umzuwandeln.
 layout_df$cluster <- factor(layout_df$cluster_plot, levels = names(cluster_names))
+
+# Da in Kap 9 dieses Skriptes aufgrund möglicher outlier im weiteren Verlauf 
+# der Ploterzeugung ggf. einzelne Koordinaten verschoben werden, um den Plot 
+# übersichtlicher und leichter intepretierbar zu machen, wird der originale 
+# Datensatz mit unangepassten Daten dupliziert, um die Möglichkeit zu geben,
+# den angepassten Plot mit dem unangepassten zu vergleichen.
+# Die Verschiebung der einzelnen Koordinaten haben keinerlei Auswirkungen auf 
+# die hier analytischen Schritte. Sie dienen lediglich der besseren 
+# veranschaulichung.
+# Um den originalen Plot ohne verschobene Koordinaten zu erzeugen, ersetzen Sie 
+# Kap 10 dieses Skriptes layout_plot_df mit layout_df
+
+layout_df_plot <- layout_df
 
 
 # Labels: pro Cluster die obersten 20 % nach Betweenness plus manuell ergänzte
@@ -555,6 +587,8 @@ layout_df_plot$label <- ifelse(
 # ==============================================================================
 # 9. Ausreißerdiagnose auf Basis der Plot-Koordinaten
 # ============================================================================== 
+
+
 
 outlier_candidates <- as.data.frame(layout_df_plot) |>
   dplyr::filter(!is.na(cluster)) |>
@@ -674,6 +708,35 @@ layout_df_plot$label <- ifelse(
   layout_df_plot$name,
   NA
 )
+
+# ------------------------------------------------------------
+# Visuelle Optimierung der Clusterhüllen
+# ------------------------------------------------------------
+#
+# Einige Organisationen liegen im Layout weit außerhalb des
+# Zentrums ihres jeweiligen Clusters. Diese Ausreißer entstehen
+# durch die gewählte Netzwerkdarstellung (Force-directed Layout)
+# und spiegeln keine eigenständige Clusterzugehörigkeit wider.
+#
+# Da einzelne weit entfernte Knoten die konvexen Hüllen stark
+# vergrößern und die Lesbarkeit der Abbildung beeinträchtigen,
+# werden sie ausschließlich für die Berechnung der
+# Clusterhüllen aus dem Plot-Datensatz entfernt.
+#
+# WICHTIG:
+# - Die Organisationen verbleiben im Netzwerk.
+# - Alle Netzwerkmetriken (z.B. Betweenness) bleiben unverändert.
+# - Die Clusteranalyse bleibt unverändert.
+# - Es wird lediglich die grafische Darstellung der
+#   Clusterumrandungen verbessert.
+#
+# Diese Anpassung betrifft ausschließlich die Visualisierung
+# und hat keinen Einfluss auf die zugrundeliegenden Analysen.
+
+
+hull_df_plot <- as.data.frame(layout_df_plot) |>
+  dplyr::filter(!is.na(cluster)) |>
+  dplyr::mutate(cluster = factor(cluster))
 
 # ==============================================================================
 # 10. Statischer Plot mit separater Clusterlegende
@@ -857,10 +920,13 @@ plotly_plot <- plotly::ggplotly(network_plot_static, tooltip = "text")
 
 # Um exakt genau die Darstellung zu erhalten, die z.B. im Gesamtkonzept des 
 # Monitoringzentrums in Kap 1.1 zu erhalten, sollte folgendes Objekt eingelesen werden
-network_plot_static<- readRDS(here("output","network_plot_final.rds"))
+# (Optional!)
+
+network_plot_final<- readRDS(here("output","network_plot_final.rds"))
+
 
 ggplot2::ggsave(
-  filename = file.path(output_dir, "Netzwerkplot_Cluster.png"),
+  filename = here("figures","Netzwerkplot_Cluster.png"),
   plot = network_plot_final,
   width = 3200,
   height = 2400,
@@ -869,7 +935,7 @@ ggplot2::ggsave(
 )
 
 ggplot2::ggsave(
-  filename = file.path(output_dir, "Netzwerkplot_Cluster.svg"),
+  filename = here("figures","Netzwerkplot_Cluster.svg"),
   plot = network_plot_final,
   width = 3200,
   height = 2400,
