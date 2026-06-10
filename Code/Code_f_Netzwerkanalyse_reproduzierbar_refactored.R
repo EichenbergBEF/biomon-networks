@@ -943,4 +943,103 @@ ggplot2::ggsave(
   device = svglite::svglite
 )
 
+
+# ------------------------------------------------------------
+# Übersicht der Netzwerkmetriken erstellen
+# ------------------------------------------------------------
+#
+# Zur weiteren Auswertung und Interpretation der Netzwerkstruktur
+# wird ein Datensatz erzeugt, der die wichtigsten
+# Zentralitätsmaße für alle Akteure zusammenfasst. Die Kennzahlen
+# erlauben die Identifikation von Schlüsselakteuren,
+# Brückenorganisationen, stark vernetzten Akteuren sowie Akteuren
+# des strukturellen Netzwerkkerns.
+#
+# Dem GitHub-Repository liegt zusätzlich das Dokument
+# "Cheatsheet_Netzwerkanalyse.xlsx" bei. Es beschreibt die
+# theoretische Bedeutung der verwendeten Netzwerkmetriken und
+# unterstützt die fachliche Interpretation der Ergebnisse.
+# ------------------------------------------------------------
+
+edge_weights <- igraph::E(network_main)$weight
+edge_distances <- 1 / edge_weights
+
+centrality_df <- data.frame(
+  name = igraph::V(network_main)$name,
+  
+  degree = igraph::degree(network_main),
+  
+  degree_norm = igraph::degree(
+    network_main,
+    normalized = TRUE
+  ),
+  
+  strength = igraph::strength(
+    network_main,
+    weights = edge_weights
+  ),
+  
+  betweenness = igraph::betweenness(
+    network_main,
+    normalized = TRUE,
+    weights = edge_distances
+  ),
+  
+  closeness = igraph::closeness(
+    network_main,
+    normalized = TRUE,
+    weights = edge_distances
+  ),
+  
+  harmonic = igraph::harmonic_centrality(
+    network_main,
+    normalized = TRUE,
+    weights = edge_distances
+  ),
+  
+  eigenvector = igraph::eigen_centrality(
+    network_main,
+    weights = edge_weights
+  )$vector,
+  
+  pagerank = igraph::page_rank(
+    network_main,
+    weights = edge_weights
+  )$vector,
+  
+  coreness = igraph::coreness(network_main),
+  
+  local_clustering = igraph::transitivity(
+    network_main,
+    type = "local",
+    isolates = "zero"
+  )
+)
+
+clusterinfos <- hull_df_plot |>
+  dplyr::select(
+    name,
+    cluster_plot,
+    Kategorie,
+    degree,
+    degree_norm,
+    strength,
+    betweenness,
+    closeness,
+    harmonic,
+    eigenvector,
+    pagerank,
+    coreness,
+    local_clustering
+  ) |>
+  dplyr::mutate(
+    Name_lang = Akteure_Uebersicht$Akteur_lang[
+      match(name, Akteure_Uebersicht$Akteur_kurz)
+    ]
+  ) |>
+  dplyr::arrange(
+    cluster_plot,
+    dplyr::desc(betweenness)
+  )
+
 # Ende -------------------------------------------------------------------------
